@@ -80,7 +80,8 @@
       "#ScienceFacts"
     ],
     "generated_at": "2026-03-16T06:57:49.577569",
-    "status": "pending"
+    "status": "formatted",
+    "formatted_at": "2026-03-16T13:21:07.291101"
   },
   {
     "topic": "Interstellar Travel Time",
@@ -101,6 +102,27 @@
       "#CosmicScale"
     ],
     "generated_at": "2026-03-16T07:20:55.678571",
+    "status": "pending"
+  },
+  {
+    "topic": "Speed of Light Travel Times",
+    "topic_family": "travel_time",
+    "hook": "Light is fast. REALLY fast. But...",
+    "facts": [
+      "Light travels at an incredible 299,792,458 meters per second.",
+      "It's so fast, it can circle Earth 7.5 times in just ONE second!",
+      "But even at this speed, it takes 8 minutes to reach us from the Sun (150 million km), and 4.2 YEARS to reach the nearest star, Proxima Centauri."
+    ],
+    "payoff": "The universe's true scale makes even light speed feel like standing still.",
+    "title": "\ud83e\udd2f The INSANE Speed of Light... Isn't Enough!",
+    "hashtags": [
+      "#SpaceFacts",
+      "#LightSpeed",
+      "#Universe",
+      "#Astrophysics",
+      "#ScienceShorts"
+    ],
+    "generated_at": "2026-03-16T13:20:56.474076",
     "status": "pending"
   }
 ]

@@ -78,5 +78,7 @@
     "background_style": "space_dark"
   },
   "formatted_at": "2026-03-16T06:58:09.296337",
-  "status": "ready_to_render"
+  "status": "rendered",
+  "rendered_at": "2026-03-16T13:22:08.453671",
+  "video_path": "videos_output/true_scale_of_nearest_star_20260316_132107.mp4"
 }
