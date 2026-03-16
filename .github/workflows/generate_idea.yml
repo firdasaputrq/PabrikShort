@@ -1,12 +1,8 @@
 name: Generate Short Idea
 
-# When to run this workflow
 on:
-  # Run on a schedule (every 12 hours)
   schedule:
     - cron: '0 */12 * * *'
-  
-  # Also allow manual trigger
   workflow_dispatch:
 
 jobs:
@@ -14,50 +10,33 @@ jobs:
     runs-on: ubuntu-latest
     
     steps:
-      # Step 1: Get the code from the repository
       - name: Checkout code
         uses: actions/checkout@v4
       
-      # Step 2: Set up Python
       - name: Set up Python
         uses: actions/setup-python@v5
         with:
           python-version: '3.11'
       
-      # Step 3: Install system dependencies for video rendering
-      - name: Install system dependencies
+      - name: Install dependencies
         run: |
           sudo apt-get update
-          sudo apt-get install -y imagemagick ffmpeg
-          # Fix ImageMagick policy for text rendering
-          sudo sed -i 's/rights="none" pattern="@\*"/rights="read|write" pattern="@*"/' /etc/ImageMagick-6/policy.xml || true
-          sudo sed -i 's/<policy domain="path" rights="none" pattern="@\*"\/>/<policy domain="path" rights="read|write" pattern="@*"\/>/' /etc/ImageMagick-6/policy.xml || true
+          sudo apt-get install -y ffmpeg
+          pip install requests Pillow numpy
       
-      # Step 4: Install Python packages
-      - name: Install Python dependencies
-        run: |
-          pip install requests moviepy Pillow numpy
-      
-      # Step 5: Run the idea generator
       - name: Generate idea
         env:
           GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
-        run: |
-          python scripts/idea_generator.py
+        run: python scripts/idea_generator.py
       
-      # Step 6: Run the script formatter
       - name: Format script
         env:
           GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
-        run: |
-          python scripts/script_formatter.py
+        run: python scripts/script_formatter.py
       
-      # Step 7: Run the video renderer
       - name: Render video
-        run: |
-          python scripts/video_renderer.py
+        run: python scripts/video_renderer.py
       
-      # Step 8: Save everything back to the repo
       - name: Save to repository
         run: |
           git config --local user.email "action@github.com"
@@ -65,7 +44,6 @@ jobs:
           git add -A
           git diff --quiet && git diff --staged --quiet || (git commit -m "🎬 Generated new Short + video" && git push)
       
-      # Step 9: Upload video as artifact (downloadable)
       - name: Upload video artifact
         uses: actions/upload-artifact@v4
         with:
