@@ -36,7 +36,8 @@
       "#ScaleComparison"
     ],
     "generated_at": "2026-03-16T05:46:00.386361",
-    "status": "pending"
+    "status": "formatted",
+    "formatted_at": "2026-03-16T06:58:09.296617"
   },
   {
     "topic": "Journey to the Nearest Star",
@@ -57,6 +58,27 @@
       "#Astrophysics"
     ],
     "generated_at": "2026-03-16T06:04:58.485339",
+    "status": "pending"
+  },
+  {
+    "topic": "Interstellar Travel Time",
+    "topic_family": "travel_time",
+    "hook": "How long would it REALLY take to reach the nearest star?",
+    "facts": [
+      "Proxima Centauri, our closest stellar neighbor, is 4.24 light-years away from Earth.",
+      "Our fastest outgoing spacecraft, Voyager 1, travels at an incredible ~61,000 km/h.",
+      "At this speed, reaching Proxima Centauri would take over 75,000 years."
+    ],
+    "payoff": "Even our fastest human-made tech makes interstellar travel a multi-generational odyssey. The stars are truly distant!",
+    "title": "\ud83d\ude80\ud83c\udf0c Reaching the Stars: How LONG Would It REALLY Take?!",
+    "hashtags": [
+      "#SpaceTravel",
+      "#ProximaCentauri",
+      "#Voyager1",
+      "#Astrophysics",
+      "#ScienceFacts"
+    ],
+    "generated_at": "2026-03-16T06:57:49.577569",
     "status": "pending"
   }
 ]

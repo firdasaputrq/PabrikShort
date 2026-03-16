@@ -74,5 +74,7 @@
     "background_style": "space_stars"
   },
   "formatted_at": "2026-03-16T06:05:06.431171",
-  "status": "ready_to_render"
+  "status": "rendered",
+  "rendered_at": "2026-03-16T06:59:07.571910",
+  "video_path": "videos_output/interstellar_travel_time_20260316_065809.mp4"
 }
