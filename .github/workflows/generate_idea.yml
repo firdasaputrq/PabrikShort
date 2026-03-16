@@ -24,29 +24,51 @@ jobs:
         with:
           python-version: '3.11'
       
-      # Step 3: Install required packages
-      - name: Install dependencies
+      # Step 3: Install system dependencies for video rendering
+      - name: Install system dependencies
         run: |
-          pip install requests
+          sudo apt-get update
+          sudo apt-get install -y imagemagick ffmpeg
+          # Fix ImageMagick policy for text rendering
+          sudo sed -i 's/rights="none" pattern="@\*"/rights="read|write" pattern="@*"/' /etc/ImageMagick-6/policy.xml || true
+          sudo sed -i 's/<policy domain="path" rights="none" pattern="@\*"\/>/<policy domain="path" rights="read|write" pattern="@*"\/>/' /etc/ImageMagick-6/policy.xml || true
       
-      # Step 4: Run the idea generator
+      # Step 4: Install Python packages
+      - name: Install Python dependencies
+        run: |
+          pip install requests moviepy Pillow numpy
+      
+      # Step 5: Run the idea generator
       - name: Generate idea
         env:
           GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
         run: |
           python scripts/idea_generator.py
       
-      # Step 5: Run the script formatter
+      # Step 6: Run the script formatter
       - name: Format script
         env:
           GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
         run: |
           python scripts/script_formatter.py
       
-      # Step 6: Save everything back to the repo
+      # Step 7: Run the video renderer
+      - name: Render video
+        run: |
+          python scripts/video_renderer.py
+      
+      # Step 8: Save everything back to the repo
       - name: Save to repository
         run: |
           git config --local user.email "action@github.com"
           git config --local user.name "GitHub Action"
           git add -A
-          git diff --quiet && git diff --staged --quiet || (git commit -m "🌌 Generated new Short idea + script" && git push)
+          git diff --quiet && git diff --staged --quiet || (git commit -m "🎬 Generated new Short + video" && git push)
+      
+      # Step 9: Upload video as artifact (downloadable)
+      - name: Upload video artifact
+        uses: actions/upload-artifact@v4
+        with:
+          name: rendered-video
+          path: videos_output/*.mp4
+          retention-days: 30
