@@ -4,9 +4,9 @@ name: Generate Short Idea
 on:
   # Run on a schedule (every 12 hours)
   schedule:
-    - cron: '0 */12 * * *'  # At minute 0 of every 12th hour
+    - cron: '0 */12 * * *'
   
-  # Also allow manual trigger (click a button to run)
+  # Also allow manual trigger
   workflow_dispatch:
 
 jobs:
@@ -36,10 +36,17 @@ jobs:
         run: |
           python scripts/idea_generator.py
       
-      # Step 5: Save the generated ideas back to the repo
-      - name: Save ideas to repository
+      # Step 5: Run the script formatter
+      - name: Format script
+        env:
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+        run: |
+          python scripts/script_formatter.py
+      
+      # Step 6: Save everything back to the repo
+      - name: Save to repository
         run: |
           git config --local user.email "action@github.com"
           git config --local user.name "GitHub Action"
           git add -A
-          git diff --quiet && git diff --staged --quiet || (git commit -m "🌌 Generated new Short idea" && git push)
+          git diff --quiet && git diff --staged --quiet || (git commit -m "🌌 Generated new Short idea + script" && git push)
