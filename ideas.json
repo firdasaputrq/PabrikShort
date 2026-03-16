@@ -1,1 +1,25 @@
-[]
+[
+  {
+    "topic": "Cosmic Speed Limits",
+    "topic_family": "travel_time",
+    "hook": "Think the fastest human-made object is quick?",
+    "facts": [
+      "The Parker Solar Probe zips at a record-breaking 195 km/s (430,000 mph) relative to the Sun.",
+      "At this incredible speed, reaching Mars (approx. 55 million km minimum distance) would still take over 3.2 days.",
+      "Now, imagine traveling at the ultimate speed limit \u2013 light speed (300,000 km/s) \u2013 to the Andromeda Galaxy, our nearest galactic neighbor, 2.5 million light-years distant."
+    ],
+    "payoff": "Even at light speed, it would STILL take 2.5 MILLION years to reach Andromeda! Human civilization as we know it would be dust countless times over.",
+    "title": "\ud83d\ude80 How FAST is FAST in Space?! \ud83e\udd2f",
+    "hashtags": [
+      "SpaceTravel",
+      "ParkerSolarProbe",
+      "Andromeda",
+      "LightSpeed",
+      "Astrophysics"
+    ],
+    "generated_at": "2026-03-16T19:48:08.986305",
+    "status": "formatted",
+    "strategy_based": true,
+    "formatted_at": "2026-03-16T19:48:16.607064"
+  }
+]
