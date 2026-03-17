@@ -1,1 +1,25 @@
-[ ]
+[
+  {
+    "topic": "Observable Universe Size Paradox",
+    "topic_family": "general",
+    "hook": "The Universe is 13.8 Billion Years Old.",
+    "facts": [
+      "Light travels at a finite speed (approx. 300,000 km/s).",
+      "So, the maximum distance light could travel to us since the Big Bang is 13.8 billion light-years.",
+      "You'd expect our 'observable universe' to be 27.6 billion light-years across (diameter)."
+    ],
+    "payoff": "But due to the universe's constant expansion, the objects at the edge of our observable universe are actually an astounding 93 BILLION light-years away from us!",
+    "title": "\ud83e\udd2f The Universe is WAY BIGGER Than You Think!",
+    "hashtags": [
+      "#astrophysics",
+      "#spacefacts",
+      "#universe",
+      "#cosmology",
+      "#mindblown"
+    ],
+    "generated_at": "2026-03-17T19:35:31.292087",
+    "status": "formatted",
+    "strategy_based": true,
+    "formatted_at": "2026-03-17T19:35:39.357168"
+  }
+]

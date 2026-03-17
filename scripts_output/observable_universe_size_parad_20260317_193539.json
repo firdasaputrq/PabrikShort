@@ -1,0 +1,93 @@
+{
+  "idea": {
+    "topic": "Observable Universe Size Paradox",
+    "topic_family": "general",
+    "hook": "The Universe is 13.8 Billion Years Old.",
+    "facts": [
+      "Light travels at a finite speed (approx. 300,000 km/s).",
+      "So, the maximum distance light could travel to us since the Big Bang is 13.8 billion light-years.",
+      "You'd expect our 'observable universe' to be 27.6 billion light-years across (diameter)."
+    ],
+    "payoff": "But due to the universe's constant expansion, the objects at the edge of our observable universe are actually an astounding 93 BILLION light-years away from us!",
+    "title": "\ud83e\udd2f The Universe is WAY BIGGER Than You Think!",
+    "hashtags": [
+      "#astrophysics",
+      "#spacefacts",
+      "#universe",
+      "#cosmology",
+      "#mindblown"
+    ],
+    "generated_at": "2026-03-17T19:35:31.292087",
+    "status": "pending",
+    "strategy_based": true
+  },
+  "script": {
+    "total_duration": 20,
+    "scenes": [
+      {
+        "scene_number": 1,
+        "start_time": 0,
+        "duration": 3,
+        "text": "The Universe is 13.8 Billion Years Old.",
+        "text_position": "center",
+        "text_size": "large",
+        "visual": "A serene deep space view with faint, ancient galaxies shimmering in the distance.",
+        "animation": "fade_in"
+      },
+      {
+        "scene_number": 2,
+        "start_time": 3,
+        "duration": 4,
+        "text": "Light has a speed limit: 300,000 km/s.",
+        "text_position": "center",
+        "text_size": "medium",
+        "visual": "A bright white light beam streaks horizontally across a dark, starry background, emphasizing speed.",
+        "animation": "zoom_in"
+      },
+      {
+        "scene_number": 3,
+        "start_time": 7,
+        "duration": 4,
+        "text": "Max light travel distance: 13.8 BILLION light-years.",
+        "text_position": "center",
+        "text_size": "medium",
+        "visual": "Earth (small) in the center. A line extends from Earth to a distant point, labeled '13.8 BILLION LY'.",
+        "animation": "slide_left"
+      },
+      {
+        "scene_number": 4,
+        "start_time": 11,
+        "duration": 4,
+        "text": "Expected observable universe: 27.6 BILLION LY diameter.",
+        "text_position": "center",
+        "text_size": "medium",
+        "visual": "A circular diagram with Earth at its center, showing a diameter labeled '27.6 BILLION LY' across distant galaxies.",
+        "animation": "slide_right"
+      },
+      {
+        "scene_number": 5,
+        "start_time": 15,
+        "duration": 5,
+        "text": "BUT due to expansion, it's 93 BILLION light-years across!",
+        "text_position": "center",
+        "text_size": "large",
+        "animation": "pulse",
+        "visual": "The previous circular diagram dramatically expands outwards, the '27.6 BILLION LY' label morphing into '93 BILLION LY' with an energetic, swirling nebula background.",
+        "background_style": "space_nebula"
+      }
+    ],
+    "thumbnail_text": "Universe Size Paradox?!",
+    "background_style": "space_dark"
+  },
+  "formatted_at": "2026-03-17T19:35:39.356959",
+  "status": "uploaded",
+  "rendered_at": "2026-03-17T19:36:38.768698",
+  "video_path": "videos_output/observable_universe_size_parad_20260317_193539.mp4",
+  "uploaded_at": "2026-03-17T19:36:42.090858",
+  "youtube": {
+    "video_id": "-hR4w8cPBSQ",
+    "url": "https://youtube.com/shorts/-hR4w8cPBSQ",
+    "title": "\ud83e\udd2f The Universe is WAY BIGGER Than You Think!",
+    "uploaded_at": "2026-03-17T19:36:42.090729"
+  }
+}
