@@ -44,5 +44,29 @@
     "status": "formatted",
     "strategy_based": true,
     "formatted_at": "2026-03-17T02:27:46.453930"
+  },
+  {
+    "topic": "Cosmic Microwave Background",
+    "topic_family": "general",
+    "hook": "The OLDEST light in the universe is around you RIGHT NOW.",
+    "facts": [
+      "This ancient light is called the Cosmic Microwave Background (CMB).",
+      "It originated ~380,000 years *after* the Big Bang, 13.8 billion years ago, when the universe cooled enough for light to travel freely.",
+      "Every cubic centimeter of space, even the one between your fingertips, contains an average of ~411 CMB photons.",
+      "That means hundreds of millions of these ancient photons are passing through your body every second!"
+    ],
+    "payoff": "You are constantly swimming in the afterglow of the universe's birth itself.",
+    "title": "You're Bathing in the Big Bang! \ud83e\udd2f",
+    "hashtags": [
+      "SpaceFacts",
+      "Astrophysics",
+      "BigBang",
+      "CMB",
+      "Cosmic"
+    ],
+    "generated_at": "2026-03-17T08:54:29.307049",
+    "status": "formatted",
+    "strategy_based": true,
+    "formatted_at": "2026-03-17T08:54:39.295800"
   }
 ]

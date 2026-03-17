@@ -1,0 +1,93 @@
+{
+  "idea": {
+    "topic": "Cosmic Microwave Background",
+    "topic_family": "general",
+    "hook": "The OLDEST light in the universe is around you RIGHT NOW.",
+    "facts": [
+      "This ancient light is called the Cosmic Microwave Background (CMB).",
+      "It originated ~380,000 years *after* the Big Bang, 13.8 billion years ago, when the universe cooled enough for light to travel freely.",
+      "Every cubic centimeter of space, even the one between your fingertips, contains an average of ~411 CMB photons.",
+      "That means hundreds of millions of these ancient photons are passing through your body every second!"
+    ],
+    "payoff": "You are constantly swimming in the afterglow of the universe's birth itself.",
+    "title": "You're Bathing in the Big Bang! \ud83e\udd2f",
+    "hashtags": [
+      "SpaceFacts",
+      "Astrophysics",
+      "BigBang",
+      "CMB",
+      "Cosmic"
+    ],
+    "generated_at": "2026-03-17T08:54:29.307049",
+    "status": "pending",
+    "strategy_based": true
+  },
+  "script": {
+    "total_duration": 20,
+    "scenes": [
+      {
+        "scene_number": 1,
+        "start_time": 0,
+        "duration": 3,
+        "text": "The OLDEST light in the universe is around you RIGHT NOW.",
+        "text_position": "center",
+        "text_size": "large",
+        "visual": "Starts with a dark, vast space background with subtle distant stars. The view slowly zooms in slightly, creating a sense of increasing focus on the viewer's immediate surroundings.",
+        "animation": "fade_in"
+      },
+      {
+        "scene_number": 2,
+        "start_time": 3,
+        "duration": 4,
+        "text": "This ancient light is the Cosmic Microwave Background (CMB).",
+        "text_position": "center",
+        "text_size": "medium",
+        "visual": "Transition to a swirling, heat-map like visualization of the CMB, with subtle temperature variations represented by color shifts (e.g., red to blue). The visual slowly pulsates.",
+        "animation": "zoom_in"
+      },
+      {
+        "scene_number": 3,
+        "start_time": 7,
+        "duration": 4,
+        "text": "Originated ~380k years after Big Bang, when universe cooled.",
+        "text_position": "center",
+        "text_size": "medium",
+        "visual": "A simplified timeline appears, starting with a bright flash labeled 'Big Bang'. A marker quickly moves along the timeline to '~380k years', at which point the background shifts from a dense, hot plasma visual to a transparent, expanding space with light waves emanating.",
+        "animation": "slide_left"
+      },
+      {
+        "scene_number": 4,
+        "start_time": 11,
+        "duration": 4,
+        "text": "~411 CMB photons per cm\u00b3 pass through you, billions every second!",
+        "text_position": "center",
+        "text_size": "medium",
+        "visual": "An abstract, glowing human silhouette appears against the dark space background. Countless small, faint glowing particles (photons) are shown continuously streaming *through* the silhouette from all directions.",
+        "animation": "slide_right"
+      },
+      {
+        "scene_number": 5,
+        "start_time": 15,
+        "duration": 5,
+        "text": "You are constantly swimming in the afterglow of the universe's birth itself.",
+        "text_position": "center",
+        "text_size": "large",
+        "animation": "pulse",
+        "visual": "The human silhouette dissolves, replaced by a grand, awe-inspiring view of a nebula or a galaxy, subtly overlaid with the CMB heat-map pattern. The entire scene glows gently, emphasizing the pervasive nature of the CMB."
+      }
+    ],
+    "thumbnail_text": "Swim in the Big Bang!",
+    "background_style": "space_dark"
+  },
+  "formatted_at": "2026-03-17T08:54:39.295576",
+  "status": "uploaded",
+  "rendered_at": "2026-03-17T08:55:42.260525",
+  "video_path": "videos_output/cosmic_microwave_background_20260317_085439.mp4",
+  "uploaded_at": "2026-03-17T08:55:44.645443",
+  "youtube": {
+    "video_id": "cQoT7Wpjnbw",
+    "url": "https://youtube.com/shorts/cQoT7Wpjnbw",
+    "title": "You're Bathing in the Big Bang! \ud83e\udd2f",
+    "uploaded_at": "2026-03-17T08:55:44.645313"
+  }
+}
