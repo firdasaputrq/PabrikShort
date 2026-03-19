@@ -5,12 +5,14 @@
     "published_at": "2026-03-16T15:13:46Z",
     "topic_family": "travel_time",
     "metrics": {
-      "views": 293,
+      "views": 294,
       "likes": 2,
-      "comments": 0
+      "comments": 0,
+      "watch_time_minutes": 24,
+      "avg_view_duration_seconds": 21
     },
-    "performance_score": 0.773,
-    "analyzed_at": "2026-03-18T07:01:08.060693"
+    "performance_score": 1.795,
+    "analyzed_at": "2026-03-19T06:57:17.470352"
   },
   {
     "video_id": "FLFWTixUFRE",
@@ -18,12 +20,14 @@
     "published_at": "2026-03-16T14:42:33Z",
     "topic_family": "travel_time",
     "metrics": {
-      "views": 928,
-      "likes": 9,
-      "comments": 0
+      "views": 637,
+      "likes": 6,
+      "comments": 0,
+      "watch_time_minutes": 57,
+      "avg_view_duration_seconds": 19
     },
-    "performance_score": 0.93,
-    "analyzed_at": "2026-03-18T07:01:08.176613"
+    "performance_score": 2.0,
+    "analyzed_at": "2026-03-19T06:57:17.641163"
   },
   {
     "video_id": "CcRtVP5veoQ",
@@ -36,7 +40,7 @@
       "comments": 0
     },
     "performance_score": 0.005,
-    "analyzed_at": "2026-03-18T07:01:08.270647"
+    "analyzed_at": "2026-03-19T06:57:17.774850"
   },
   {
     "video_id": "cAnlLGp8FfM",
@@ -49,7 +53,7 @@
       "comments": 1
     },
     "performance_score": 0.185,
-    "analyzed_at": "2026-03-18T07:01:08.366415"
+    "analyzed_at": "2026-03-19T06:57:17.912455"
   },
   {
     "video_id": "A6O3_Kynlmo",
@@ -62,7 +66,7 @@
       "comments": 1
     },
     "performance_score": 0.133,
-    "analyzed_at": "2026-03-18T07:01:08.463582"
+    "analyzed_at": "2026-03-19T06:57:18.037700"
   },
   {
     "video_id": "217bQ53Fm9Q",
@@ -75,7 +79,7 @@
       "comments": 1
     },
     "performance_score": 0.138,
-    "analyzed_at": "2026-03-18T07:01:08.579736"
+    "analyzed_at": "2026-03-19T06:57:18.175597"
   },
   {
     "video_id": "taEvTbhPVWE",
@@ -88,7 +92,7 @@
       "comments": 1
     },
     "performance_score": 0.168,
-    "analyzed_at": "2026-03-18T07:01:08.672118"
+    "analyzed_at": "2026-03-19T06:57:18.301601"
   },
   {
     "video_id": "ujX78L5Xvbk",
@@ -101,7 +105,7 @@
       "comments": 2
     },
     "performance_score": 0.29,
-    "analyzed_at": "2026-03-18T07:01:08.780434"
+    "analyzed_at": "2026-03-19T06:57:18.423278"
   },
   {
     "video_id": "xu6itzQmLUw",
@@ -114,7 +118,7 @@
       "comments": 0
     },
     "performance_score": 0.0,
-    "analyzed_at": "2026-03-18T07:01:08.862894"
+    "analyzed_at": "2026-03-19T06:57:18.558835"
   },
   {
     "video_id": "ptIApoP99pA",
@@ -127,7 +131,7 @@
       "comments": 0
     },
     "performance_score": 0.06,
-    "analyzed_at": "2026-03-18T07:01:08.964851"
+    "analyzed_at": "2026-03-19T06:57:18.705028"
   },
   {
     "video_id": "Cw2KtqU0PNk",
@@ -140,7 +144,7 @@
       "comments": 0
     },
     "performance_score": 0.083,
-    "analyzed_at": "2026-03-18T07:01:09.065945"
+    "analyzed_at": "2026-03-19T06:57:18.852143"
   },
   {
     "video_id": "iLi7YPozKgE",
@@ -265,12 +269,14 @@
     "published_at": "2026-03-16T19:49:41Z",
     "topic_family": "travel_time",
     "metrics": {
-      "views": 1513,
-      "likes": 14,
-      "comments": 2
+      "views": 1492,
+      "likes": 13,
+      "comments": 1,
+      "watch_time_minutes": 159,
+      "avg_view_duration_seconds": 15
     },
-    "performance_score": 1.23,
-    "analyzed_at": "2026-03-18T07:01:07.747874"
+    "performance_score": 2.16,
+    "analyzed_at": "2026-03-19T06:57:16.998406"
   },
   {
     "video_id": "pWzHBx9cRGA",
@@ -278,12 +284,14 @@
     "published_at": "2026-03-16T18:26:15Z",
     "topic_family": "travel_time",
     "metrics": {
-      "views": 1460,
-      "likes": 12,
-      "comments": 0
+      "views": 706,
+      "likes": 4,
+      "comments": 0,
+      "watch_time_minutes": 64,
+      "avg_view_duration_seconds": 15
     },
-    "performance_score": 0.99,
-    "analyzed_at": "2026-03-18T07:01:07.863059"
+    "performance_score": 1.88,
+    "analyzed_at": "2026-03-19T06:57:17.154825"
   },
   {
     "video_id": "w7EB07uu7t0",
@@ -291,12 +299,14 @@
     "published_at": "2026-03-16T16:14:54Z",
     "topic_family": "travel_time",
     "metrics": {
-      "views": 174,
+      "views": 175,
       "likes": 2,
-      "comments": 0
+      "comments": 0,
+      "watch_time_minutes": 13,
+      "avg_view_duration_seconds": 19
     },
-    "performance_score": 0.475,
-    "analyzed_at": "2026-03-18T07:01:07.966519"
+    "performance_score": 1.182,
+    "analyzed_at": "2026-03-19T06:57:17.307279"
   },
   {
     "video_id": "qEiMxBmMLpQ",
@@ -304,12 +314,14 @@
     "published_at": "2026-03-17T02:29:06Z",
     "topic_family": "scale_comparison",
     "metrics": {
-      "views": 270,
+      "views": 259,
       "likes": 0,
-      "comments": 0
+      "comments": 0,
+      "watch_time_minutes": 12,
+      "avg_view_duration_seconds": 10
     },
-    "performance_score": 0.675,
-    "analyzed_at": "2026-03-18T07:01:07.665507"
+    "performance_score": 1.147,
+    "analyzed_at": "2026-03-19T06:57:16.851039"
   },
   {
     "video_id": "IFY4hH6sDNY",
@@ -317,12 +329,12 @@
     "published_at": "2026-03-18T01:18:19Z",
     "topic_family": "myth_busting",
     "metrics": {
-      "views": 2,
+      "views": 6,
       "likes": 1,
       "comments": 0
     },
-    "performance_score": 0.025,
-    "analyzed_at": "2026-03-18T07:01:07.459019"
+    "performance_score": 0.035,
+    "analyzed_at": "2026-03-19T06:57:16.580274"
   },
   {
     "video_id": "aqCps4ljjtw",
@@ -330,11 +342,50 @@
     "published_at": "2026-03-17T15:19:09Z",
     "topic_family": "planetary_facts",
     "metrics": {
-      "views": 20,
+      "views": 1447,
+      "likes": 18,
+      "comments": 0
+    },
+    "performance_score": 1.05,
+    "analyzed_at": "2026-03-19T06:57:16.703177"
+  },
+  {
+    "video_id": "M3VzTVun-aU",
+    "title": "The Universe is 95% Invisible! \ud83e\udd2f",
+    "published_at": "2026-03-19T01:17:26Z",
+    "topic_family": "hypothetical",
+    "metrics": {
+      "views": 2,
       "likes": 0,
       "comments": 0
     },
-    "performance_score": 0.05,
-    "analyzed_at": "2026-03-18T07:01:07.572100"
+    "performance_score": 0.005,
+    "analyzed_at": "2026-03-19T06:57:16.085858"
+  },
+  {
+    "video_id": "TzTKHCSyCLQ",
+    "title": "Universe's Speed Problem?! \ud83e\udd2f #HubbleTension",
+    "published_at": "2026-03-18T16:52:25Z",
+    "topic_family": "travel_time",
+    "metrics": {
+      "views": 345,
+      "likes": 3,
+      "comments": 0
+    },
+    "performance_score": 0.81,
+    "analyzed_at": "2026-03-19T06:57:16.270285"
+  },
+  {
+    "video_id": "_ddtJh0kodY",
+    "title": "You're ALWAYS looking into the past! \ud83e\udd2f\ud83c\udf0c",
+    "published_at": "2026-03-18T08:39:40Z",
+    "topic_family": "travel_time",
+    "metrics": {
+      "views": 5,
+      "likes": 2,
+      "comments": 0
+    },
+    "performance_score": 0.053,
+    "analyzed_at": "2026-03-19T06:57:16.403209"
   }
 ]
