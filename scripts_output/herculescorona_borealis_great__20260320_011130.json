@@ -1,0 +1,94 @@
+{
+  "idea": {
+    "topic": "Hercules-Corona Borealis Great Wall",
+    "topic_family": "scale_comparison",
+    "hook": "Think galaxies are the largest 'things' out there?",
+    "facts": [
+      "Our Milky Way galaxy is approximately 100,000 light-years across.",
+      "Our local Laniakea Supercluster spans about 520 million light-years.",
+      "The *entire Observable Universe* stretches an incredible 93 billion light-years.",
+      "Yet, within it, lies the Hercules-Corona Borealis Great Wall...",
+      "A colossal filament of galaxies and gamma-ray bursts, estimated to be over 10 billion light-years long!"
+    ],
+    "payoff": "That's a single cosmic structure nearly 1/10th the size of the *entire* Observable Universe. Our cosmos is structured on truly unimaginable scales.",
+    "title": "The UNIVERSE'S BIGGEST 'THING'?! \ud83e\udd2f\ud83c\udf0c",
+    "hashtags": [
+      "Space",
+      "Astrophysics",
+      "CosmicScale",
+      "UniverseFacts",
+      "BigThings"
+    ],
+    "generated_at": "2026-03-20T01:11:22.615279",
+    "status": "pending",
+    "strategy_based": true
+  },
+  "script": {
+    "total_duration": 20,
+    "scenes": [
+      {
+        "scene_number": 1,
+        "start_time": 0,
+        "duration": 3,
+        "text": "Think galaxies are the largest 'things' out there?",
+        "text_position": "center",
+        "text_size": "large",
+        "visual": "Distant, swirling spiral galaxy slowly rotating in the void.",
+        "animation": "fade_in"
+      },
+      {
+        "scene_number": 2,
+        "start_time": 3,
+        "duration": 4,
+        "text": "Milky Way: 100,000 light-years. Laniakea Supercluster: 520 million light-years.",
+        "text_position": "bottom",
+        "text_size": "medium",
+        "visual": "Starts with a single galaxy, then smoothly zooms out to reveal a cluster of galaxies, then a larger, web-like supercluster.",
+        "animation": "zoom_out"
+      },
+      {
+        "scene_number": 3,
+        "start_time": 7,
+        "duration": 4,
+        "text": "Observable Universe: 93 billion light-years. Yet, within it lies the...",
+        "text_position": "center",
+        "text_size": "medium",
+        "visual": "A vast, dark cosmic canvas with countless points of light (galaxies). A subtle, almost imperceptible red glow appears on one side.",
+        "animation": "slide_left"
+      },
+      {
+        "scene_number": 4,
+        "start_time": 11,
+        "duration": 4,
+        "text": "Hercules-Corona Borealis Great Wall: Over 10 BILLION light-years long!",
+        "text_position": "top",
+        "text_size": "large",
+        "visual": "A prominent, extremely long and dense filament of interconnected galaxies, stretching across the screen, with occasional subtle flashes representing gamma-ray bursts.",
+        "animation": "slide_right"
+      },
+      {
+        "scene_number": 5,
+        "start_time": 15,
+        "duration": 5,
+        "text": "Nearly 1/10th the size of the *entire* Observable Universe. Truly unimaginable scales!",
+        "text_position": "center",
+        "text_size": "large",
+        "animation": "fade_in",
+        "visual": "The Great Wall visual slowly zooms out, revealing its immense scale as a single structure within the vast, awe-inspiring cosmic web, eventually fading to a deep, star-filled space."
+      }
+    ],
+    "thumbnail_text": "Largest Thing in the Universe?",
+    "background_style": "space_dark"
+  },
+  "formatted_at": "2026-03-20T01:11:30.593561",
+  "status": "uploaded",
+  "rendered_at": "2026-03-20T01:13:17.678096",
+  "video_path": "videos_output/herculescorona_borealis_great__20260320_011130.mp4",
+  "uploaded_at": "2026-03-20T01:13:19.882402",
+  "youtube": {
+    "video_id": "JLYrvt9SjAA",
+    "url": "https://youtube.com/shorts/JLYrvt9SjAA",
+    "title": "The UNIVERSE'S BIGGEST 'THING'?! \ud83e\udd2f\ud83c\udf0c",
+    "uploaded_at": "2026-03-20T01:13:19.882257"
+  }
+}

@@ -160,5 +160,30 @@
     "status": "formatted",
     "strategy_based": true,
     "formatted_at": "2026-03-19T16:47:14.132340"
+  },
+  {
+    "topic": "Hercules-Corona Borealis Great Wall",
+    "topic_family": "scale_comparison",
+    "hook": "Think galaxies are the largest 'things' out there?",
+    "facts": [
+      "Our Milky Way galaxy is approximately 100,000 light-years across.",
+      "Our local Laniakea Supercluster spans about 520 million light-years.",
+      "The *entire Observable Universe* stretches an incredible 93 billion light-years.",
+      "Yet, within it, lies the Hercules-Corona Borealis Great Wall...",
+      "A colossal filament of galaxies and gamma-ray bursts, estimated to be over 10 billion light-years long!"
+    ],
+    "payoff": "That's a single cosmic structure nearly 1/10th the size of the *entire* Observable Universe. Our cosmos is structured on truly unimaginable scales.",
+    "title": "The UNIVERSE'S BIGGEST 'THING'?! \ud83e\udd2f\ud83c\udf0c",
+    "hashtags": [
+      "Space",
+      "Astrophysics",
+      "CosmicScale",
+      "UniverseFacts",
+      "BigThings"
+    ],
+    "generated_at": "2026-03-20T01:11:22.615279",
+    "status": "formatted",
+    "strategy_based": true,
+    "formatted_at": "2026-03-20T01:11:30.593762"
   }
 ]
