@@ -1,0 +1,92 @@
+{
+  "idea": {
+    "topic": "Light Travel Time & Perception of Time",
+    "topic_family": "general",
+    "hook": "The Universe's Biggest Lie: 'Now'",
+    "facts": [
+      "Light from our Sun takes ~8 minutes 20 seconds to reach Earth. You're seeing it *as it was* 8m 20s ago.",
+      "The brightest star, Sirius, is ~8.6 light-years away. When you look at it, you're seeing light that left it *8.6 years ago*.",
+      "The Andromeda Galaxy is ~2.5 million light-years away. Its image shows it *2.5 million years in the past*."
+    ],
+    "payoff": "Every photon reaching your eye is a messenger from the past. The farther you look, the deeper into history you see. The 'present' is a tiny, ever-shifting bubble around you.",
+    "title": "Your 'Now' Is a Lie! \ud83e\udd2f\u23f1\ufe0f",
+    "hashtags": [
+      "SpaceFacts",
+      "TimeTravel",
+      "Astrophysics",
+      "LightSpeed",
+      "CosmicPerspective"
+    ],
+    "generated_at": "2026-03-21T01:07:10.338838",
+    "status": "pending",
+    "strategy_based": true
+  },
+  "script": {
+    "total_duration": 20,
+    "scenes": [
+      {
+        "scene_number": 1,
+        "start_time": 0,
+        "duration": 3,
+        "text": "The Universe's Biggest Lie: 'Now'",
+        "text_position": "center",
+        "text_size": "large",
+        "visual": "Dark cosmic background with subtle, slow-moving distant stars. A single bright star twinkles.",
+        "animation": "fade_in"
+      },
+      {
+        "scene_number": 2,
+        "start_time": 3,
+        "duration": 4,
+        "text": "Sun's light: ~8m 20s to Earth. You see it *8m 20s in the past*.",
+        "text_position": "top",
+        "text_size": "medium",
+        "visual": "Animated graphic: Sun on left, Earth on right. A light beam travels from Sun to Earth with an animated timer (0:00 -> 8:20).",
+        "animation": "zoom_in"
+      },
+      {
+        "scene_number": 3,
+        "start_time": 7,
+        "duration": 4,
+        "text": "Sirius: ~8.6 light-years away. You see light that left it *8.6 years ago*.",
+        "text_position": "top",
+        "text_size": "medium",
+        "visual": "Image of the bright star Sirius against a deep space backdrop. A light beam extends from Sirius towards the viewer, labeled '8.6 years'.",
+        "animation": "slide_left"
+      },
+      {
+        "scene_number": 4,
+        "start_time": 11,
+        "duration": 4,
+        "text": "Andromeda Galaxy: ~2.5 million light-years away. You see it *2.5 million years in the past*.",
+        "text_position": "top",
+        "text_size": "medium",
+        "visual": "Stunning, high-resolution image of the Andromeda Galaxy. Text '2.5 MILLION YEARS AGO' subtly pulses near the galaxy image.",
+        "animation": "slide_right"
+      },
+      {
+        "scene_number": 5,
+        "start_time": 15,
+        "duration": 5,
+        "text": "Every photon = past messenger. Look farther = deeper into history. Your 'present' is a tiny, shifting bubble.",
+        "text_position": "center",
+        "text_size": "large",
+        "visual": "A stylized human eye looking out into an expanding cosmic view. Light rays converge towards the eye, showing galaxies and nebulae fading into the distance.",
+        "animation": "pulse"
+      }
+    ],
+    "thumbnail_text": "NOW is a Lie.",
+    "background_style": "space_dark"
+  },
+  "formatted_at": "2026-03-21T01:07:19.149408",
+  "status": "uploaded",
+  "rendered_at": "2026-03-21T01:08:24.235628",
+  "video_path": "videos_output/light_travel_time__perception__20260321_010719.mp4",
+  "uploaded_at": "2026-03-21T01:08:26.236289",
+  "youtube": {
+    "video_id": "wMdnDQ5RqoM",
+    "url": "https://youtube.com/shorts/wMdnDQ5RqoM",
+    "title": "Your 'Now' Is a Lie! \ud83e\udd2f\u23f1\ufe0f",
+    "uploaded_at": "2026-03-21T01:08:26.236163"
+  }
+}

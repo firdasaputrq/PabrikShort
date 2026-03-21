@@ -232,5 +232,28 @@
     "status": "formatted",
     "strategy_based": true,
     "formatted_at": "2026-03-20T16:32:20.079599"
+  },
+  {
+    "topic": "Light Travel Time & Perception of Time",
+    "topic_family": "general",
+    "hook": "The Universe's Biggest Lie: 'Now'",
+    "facts": [
+      "Light from our Sun takes ~8 minutes 20 seconds to reach Earth. You're seeing it *as it was* 8m 20s ago.",
+      "The brightest star, Sirius, is ~8.6 light-years away. When you look at it, you're seeing light that left it *8.6 years ago*.",
+      "The Andromeda Galaxy is ~2.5 million light-years away. Its image shows it *2.5 million years in the past*."
+    ],
+    "payoff": "Every photon reaching your eye is a messenger from the past. The farther you look, the deeper into history you see. The 'present' is a tiny, ever-shifting bubble around you.",
+    "title": "Your 'Now' Is a Lie! \ud83e\udd2f\u23f1\ufe0f",
+    "hashtags": [
+      "SpaceFacts",
+      "TimeTravel",
+      "Astrophysics",
+      "LightSpeed",
+      "CosmicPerspective"
+    ],
+    "generated_at": "2026-03-21T01:07:10.338838",
+    "status": "formatted",
+    "strategy_based": true,
+    "formatted_at": "2026-03-21T01:07:19.149627"
   }
 ]
