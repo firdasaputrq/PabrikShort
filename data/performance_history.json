@@ -5,14 +5,14 @@
     "published_at": "2026-03-16T15:13:46Z",
     "topic_family": "travel_time",
     "metrics": {
-      "views": 299,
+      "views": 300,
       "likes": 2,
       "comments": 0,
       "watch_time_minutes": 24,
       "avg_view_duration_seconds": 21
     },
-    "performance_score": 1.808,
-    "analyzed_at": "2026-03-21T06:41:38.608100"
+    "performance_score": 1.81,
+    "analyzed_at": "2026-03-22T06:50:47.155031"
   },
   {
     "video_id": "FLFWTixUFRE",
@@ -278,7 +278,7 @@
       "avg_view_duration_seconds": 15
     },
     "performance_score": 2.18,
-    "analyzed_at": "2026-03-21T06:41:38.309349"
+    "analyzed_at": "2026-03-22T06:50:46.798600"
   },
   {
     "video_id": "pWzHBx9cRGA",
@@ -286,14 +286,14 @@
     "published_at": "2026-03-16T18:26:15Z",
     "topic_family": "travel_time",
     "metrics": {
-      "views": 1476,
+      "views": 1481,
       "likes": 12,
       "comments": 0,
-      "watch_time_minutes": 154,
+      "watch_time_minutes": 155,
       "avg_view_duration_seconds": 15
     },
     "performance_score": 2.04,
-    "analyzed_at": "2026-03-21T06:41:38.410809"
+    "analyzed_at": "2026-03-22T06:50:46.917522"
   },
   {
     "video_id": "w7EB07uu7t0",
@@ -308,7 +308,7 @@
       "avg_view_duration_seconds": 18
     },
     "performance_score": 1.165,
-    "analyzed_at": "2026-03-21T06:41:38.503462"
+    "analyzed_at": "2026-03-22T06:50:47.031941"
   },
   {
     "video_id": "qEiMxBmMLpQ",
@@ -316,14 +316,14 @@
     "published_at": "2026-03-17T02:29:06Z",
     "topic_family": "scale_comparison",
     "metrics": {
-      "views": 276,
+      "views": 278,
       "likes": 0,
       "comments": 0,
       "watch_time_minutes": 54,
       "avg_view_duration_seconds": 61
     },
-    "performance_score": 2.34,
-    "analyzed_at": "2026-03-21T06:41:38.213450"
+    "performance_score": 2.345,
+    "analyzed_at": "2026-03-22T06:50:46.681529"
   },
   {
     "video_id": "IFY4hH6sDNY",
@@ -338,7 +338,7 @@
       "avg_view_duration_seconds": 6
     },
     "performance_score": 0.155,
-    "analyzed_at": "2026-03-21T06:41:38.015975"
+    "analyzed_at": "2026-03-22T06:50:46.430717"
   },
   {
     "video_id": "aqCps4ljjtw",
@@ -346,14 +346,14 @@
     "published_at": "2026-03-17T15:19:09Z",
     "topic_family": "planetary_facts",
     "metrics": {
-      "views": 1443,
-      "likes": 18,
+      "views": 1450,
+      "likes": 17,
       "comments": 0,
       "watch_time_minutes": 205,
       "avg_view_duration_seconds": 21
     },
     "performance_score": 2.22,
-    "analyzed_at": "2026-03-21T06:41:38.112184"
+    "analyzed_at": "2026-03-22T06:50:46.539683"
   },
   {
     "video_id": "M3VzTVun-aU",
@@ -368,7 +368,7 @@
       "avg_view_duration_seconds": 4
     },
     "performance_score": 0.085,
-    "analyzed_at": "2026-03-21T06:41:37.715161"
+    "analyzed_at": "2026-03-22T06:50:46.059324"
   },
   {
     "video_id": "TzTKHCSyCLQ",
@@ -383,7 +383,7 @@
       "avg_view_duration_seconds": 9
     },
     "performance_score": 1.39,
-    "analyzed_at": "2026-03-21T06:41:37.796061"
+    "analyzed_at": "2026-03-22T06:50:46.171391"
   },
   {
     "video_id": "_ddtJh0kodY",
@@ -398,7 +398,7 @@
       "avg_view_duration_seconds": 17
     },
     "performance_score": 0.395,
-    "analyzed_at": "2026-03-21T06:41:37.897561"
+    "analyzed_at": "2026-03-22T06:50:46.309397"
   },
   {
     "video_id": "JLYrvt9SjAA",
@@ -411,7 +411,7 @@
       "comments": 0
     },
     "performance_score": 0.0,
-    "analyzed_at": "2026-03-21T06:41:37.433559"
+    "analyzed_at": "2026-03-22T06:50:45.695004"
   },
   {
     "video_id": "58Gzc6fDwx8",
@@ -424,7 +424,7 @@
       "comments": 0
     },
     "performance_score": 0.005,
-    "analyzed_at": "2026-03-21T06:41:37.523615"
+    "analyzed_at": "2026-03-22T06:50:45.820378"
   },
   {
     "video_id": "zNuMrd_JSXk",
@@ -437,7 +437,7 @@
       "comments": 0
     },
     "performance_score": 0.0,
-    "analyzed_at": "2026-03-21T06:41:37.627048"
+    "analyzed_at": "2026-03-22T06:50:45.931990"
   },
   {
     "video_id": "Z-AJDQGpUV4",
@@ -445,12 +445,12 @@
     "published_at": "2026-03-21T04:48:55Z",
     "topic_family": "planetary_facts",
     "metrics": {
-      "views": 176,
+      "views": 193,
       "likes": 1,
       "comments": 0
     },
-    "performance_score": 0.46,
-    "analyzed_at": "2026-03-21T06:41:37.056266"
+    "performance_score": 0.502,
+    "analyzed_at": "2026-03-22T06:50:45.217606"
   },
   {
     "video_id": "wMdnDQ5RqoM",
@@ -458,12 +458,12 @@
     "published_at": "2026-03-21T01:08:47Z",
     "topic_family": "travel_time",
     "metrics": {
-      "views": 4,
+      "views": 5,
       "likes": 1,
       "comments": 0
     },
-    "performance_score": 0.03,
-    "analyzed_at": "2026-03-21T06:41:37.153774"
+    "performance_score": 0.033,
+    "analyzed_at": "2026-03-22T06:50:45.351830"
   },
   {
     "video_id": "G46FS4EP2KE",
@@ -471,12 +471,12 @@
     "published_at": "2026-03-20T16:33:42Z",
     "topic_family": "travel_time",
     "metrics": {
-      "views": 11,
+      "views": 12,
       "likes": 2,
       "comments": 0
     },
-    "performance_score": 0.068,
-    "analyzed_at": "2026-03-21T06:41:37.237919"
+    "performance_score": 0.07,
+    "analyzed_at": "2026-03-22T06:50:45.461141"
   },
   {
     "video_id": "qnE_1LOqTZY",
@@ -484,11 +484,50 @@
     "published_at": "2026-03-20T08:32:08Z",
     "topic_family": "scale_comparison",
     "metrics": {
+      "views": 3,
+      "likes": 0,
+      "comments": 0
+    },
+    "performance_score": 0.007,
+    "analyzed_at": "2026-03-22T06:50:45.587303"
+  },
+  {
+    "video_id": "WSNxltd2krU",
+    "title": "The Universe Just *RANG*! \ud83c\udf0c\ud83c\udfb6",
+    "published_at": "2026-03-22T01:17:23Z",
+    "topic_family": "general",
+    "metrics": {
+      "views": 0,
+      "likes": 0,
+      "comments": 0
+    },
+    "performance_score": 0.0,
+    "analyzed_at": "2026-03-22T06:50:44.855185"
+  },
+  {
+    "video_id": "cbpfIVC0pTI",
+    "title": "Billions of DARK Worlds! \ud83e\udd2f\ud83c\udf0c",
+    "published_at": "2026-03-21T16:20:26Z",
+    "topic_family": "general",
+    "metrics": {
+      "views": 0,
+      "likes": 0,
+      "comments": 0
+    },
+    "performance_score": 0.0,
+    "analyzed_at": "2026-03-22T06:50:44.983922"
+  },
+  {
+    "video_id": "W6VOi2cK4fI",
+    "title": "You're a Neutrino HIGHWAY! \ud83d\udc7b\u2728",
+    "published_at": "2026-03-21T08:22:49Z",
+    "topic_family": "general",
+    "metrics": {
       "views": 1,
       "likes": 0,
       "comments": 0
     },
     "performance_score": 0.003,
-    "analyzed_at": "2026-03-21T06:41:37.341085"
+    "analyzed_at": "2026-03-22T06:50:45.106389"
   }
 ]
