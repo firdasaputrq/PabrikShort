@@ -1,0 +1,93 @@
+{
+  "idea": {
+    "topic": "Voyager vs. Light to Oort Cloud",
+    "topic_family": "travel_time",
+    "hook": "Think leaving our Solar System is fast?",
+    "facts": [
+      "The Oort Cloud, the true edge of our Sun's gravitational influence, starts around 2,000 Astronomical Units (AU) away.",
+      "Voyager 1, our fastest spacecraft, travels at ~17 kilometers per second (38,000 mph).",
+      "At Voyager 1's speed, reaching the inner Oort Cloud would take approximately 560 years.",
+      "At the speed of light (~300,000 km/s), the journey would take only about 11.6 days."
+    ],
+    "payoff": "Even our closest cosmic neighborhood is unimaginably vast, making interstellar travel with current technology a centuries-long endeavor compared to light speed's mere days.",
+    "title": "Leave Our Solar System? NOT FAST! \ud83e\udd2f\ud83d\ude80",
+    "hashtags": [
+      "SpaceTravel",
+      "Voyager1",
+      "OortCloud",
+      "LightSpeed",
+      "CosmicScale"
+    ],
+    "generated_at": "2026-03-22T08:23:41.015330",
+    "status": "pending",
+    "strategy_based": true
+  },
+  "script": {
+    "total_duration": 20,
+    "scenes": [
+      {
+        "scene_number": 1,
+        "start_time": 0,
+        "duration": 3,
+        "text": "Think leaving our Solar System is fast?",
+        "text_position": "center",
+        "text_size": "large",
+        "visual": "A visual zoom-out from Earth, showing planets orbiting the Sun, then shrinking to a distant star.",
+        "animation": "fade_in"
+      },
+      {
+        "scene_number": 2,
+        "start_time": 3,
+        "duration": 4,
+        "text": "Oort Cloud: true edge of Sun's influence. Starts ~2,000 AU away.",
+        "text_position": "top",
+        "text_size": "medium",
+        "visual": "An animated diagram showing the Solar System as a tiny dot in the center of a vast, transparent sphere representing the Oort Cloud. Text '2,000 AU' appears.",
+        "animation": "zoom_in"
+      },
+      {
+        "scene_number": 3,
+        "start_time": 7,
+        "duration": 4,
+        "text": "Voyager 1: 17 km/s. To Oort Cloud: ~560 years.",
+        "text_position": "center",
+        "text_size": "medium",
+        "visual": "A stylized Voyager 1 spacecraft icon slowly moving from left to right across the screen, leaving a long, faint trail. A timer counts up towards '560 Years'.",
+        "animation": "slide_left"
+      },
+      {
+        "scene_number": 4,
+        "start_time": 11,
+        "duration": 4,
+        "text": "Light speed: 300,000 km/s. To Oort Cloud: ~11.6 days!",
+        "text_position": "center",
+        "text_size": "medium",
+        "visual": "A vibrant beam of light streaks across the screen from left to right in a flash, quickly reaching the same distance. A timer quickly counts up to '11.6 Days'.",
+        "animation": "slide_right"
+      },
+      {
+        "scene_number": 5,
+        "start_time": 15,
+        "duration": 5,
+        "text": "Interstellar travel: centuries vs. days. Space is unimaginably vast!",
+        "text_position": "center",
+        "text_size": "large",
+        "animation": "pulse",
+        "visual": "A stunning, deep space visual of distant galaxies and nebulae, emphasizing infinite scale and beauty. The text pulsates for emphasis."
+      }
+    ],
+    "thumbnail_text": "Voyager vs. Light: Oort Cloud!",
+    "background_style": "space_stars"
+  },
+  "formatted_at": "2026-03-22T08:23:48.601144",
+  "status": "uploaded",
+  "rendered_at": "2026-03-22T08:24:58.331660",
+  "video_path": "videos_output/voyager_vs_light_to_oort_cloud_20260322_082349.mp4",
+  "uploaded_at": "2026-03-22T08:25:00.979468",
+  "youtube": {
+    "video_id": "0VrjJqkjEWo",
+    "url": "https://youtube.com/shorts/0VrjJqkjEWo",
+    "title": "Leave Our Solar System? NOT FAST! \ud83e\udd2f\ud83d\ude80",
+    "uploaded_at": "2026-03-22T08:25:00.979346"
+  }
+}

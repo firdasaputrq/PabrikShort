@@ -348,5 +348,29 @@
     "status": "formatted",
     "strategy_based": true,
     "formatted_at": "2026-03-22T01:15:50.717945"
+  },
+  {
+    "topic": "Voyager vs. Light to Oort Cloud",
+    "topic_family": "travel_time",
+    "hook": "Think leaving our Solar System is fast?",
+    "facts": [
+      "The Oort Cloud, the true edge of our Sun's gravitational influence, starts around 2,000 Astronomical Units (AU) away.",
+      "Voyager 1, our fastest spacecraft, travels at ~17 kilometers per second (38,000 mph).",
+      "At Voyager 1's speed, reaching the inner Oort Cloud would take approximately 560 years.",
+      "At the speed of light (~300,000 km/s), the journey would take only about 11.6 days."
+    ],
+    "payoff": "Even our closest cosmic neighborhood is unimaginably vast, making interstellar travel with current technology a centuries-long endeavor compared to light speed's mere days.",
+    "title": "Leave Our Solar System? NOT FAST! \ud83e\udd2f\ud83d\ude80",
+    "hashtags": [
+      "SpaceTravel",
+      "Voyager1",
+      "OortCloud",
+      "LightSpeed",
+      "CosmicScale"
+    ],
+    "generated_at": "2026-03-22T08:23:41.015330",
+    "status": "formatted",
+    "strategy_based": true,
+    "formatted_at": "2026-03-22T08:23:48.601359"
   }
 ]
