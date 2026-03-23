@@ -271,14 +271,14 @@
     "published_at": "2026-03-16T19:49:41Z",
     "topic_family": "travel_time",
     "metrics": {
-      "views": 1516,
+      "views": 1513,
       "likes": 14,
       "comments": 1,
       "watch_time_minutes": 162,
       "avg_view_duration_seconds": 15
     },
     "performance_score": 2.18,
-    "analyzed_at": "2026-03-22T06:50:46.798600"
+    "analyzed_at": "2026-03-23T07:08:41.791051"
   },
   {
     "video_id": "pWzHBx9cRGA",
@@ -316,14 +316,14 @@
     "published_at": "2026-03-17T02:29:06Z",
     "topic_family": "scale_comparison",
     "metrics": {
-      "views": 278,
+      "views": 276,
       "likes": 0,
       "comments": 0,
       "watch_time_minutes": 54,
       "avg_view_duration_seconds": 61
     },
-    "performance_score": 2.345,
-    "analyzed_at": "2026-03-22T06:50:46.681529"
+    "performance_score": 2.34,
+    "analyzed_at": "2026-03-23T07:08:41.679312"
   },
   {
     "video_id": "IFY4hH6sDNY",
@@ -338,7 +338,7 @@
       "avg_view_duration_seconds": 6
     },
     "performance_score": 0.155,
-    "analyzed_at": "2026-03-22T06:50:46.430717"
+    "analyzed_at": "2026-03-23T07:08:41.457451"
   },
   {
     "video_id": "aqCps4ljjtw",
@@ -346,14 +346,14 @@
     "published_at": "2026-03-17T15:19:09Z",
     "topic_family": "planetary_facts",
     "metrics": {
-      "views": 1450,
+      "views": 1446,
       "likes": 17,
       "comments": 0,
       "watch_time_minutes": 205,
       "avg_view_duration_seconds": 21
     },
     "performance_score": 2.22,
-    "analyzed_at": "2026-03-22T06:50:46.539683"
+    "analyzed_at": "2026-03-23T07:08:41.572384"
   },
   {
     "video_id": "M3VzTVun-aU",
@@ -368,7 +368,7 @@
       "avg_view_duration_seconds": 4
     },
     "performance_score": 0.085,
-    "analyzed_at": "2026-03-22T06:50:46.059324"
+    "analyzed_at": "2026-03-23T07:08:41.107905"
   },
   {
     "video_id": "TzTKHCSyCLQ",
@@ -376,14 +376,14 @@
     "published_at": "2026-03-18T16:52:25Z",
     "topic_family": "travel_time",
     "metrics": {
-      "views": 345,
-      "likes": 3,
+      "views": 393,
+      "likes": 4,
       "comments": 0,
-      "watch_time_minutes": 16,
+      "watch_time_minutes": 18,
       "avg_view_duration_seconds": 9
     },
-    "performance_score": 1.39,
-    "analyzed_at": "2026-03-22T06:50:46.171391"
+    "performance_score": 1.46,
+    "analyzed_at": "2026-03-23T07:08:41.223793"
   },
   {
     "video_id": "_ddtJh0kodY",
@@ -398,7 +398,7 @@
       "avg_view_duration_seconds": 17
     },
     "performance_score": 0.395,
-    "analyzed_at": "2026-03-22T06:50:46.309397"
+    "analyzed_at": "2026-03-23T07:08:41.348232"
   },
   {
     "video_id": "JLYrvt9SjAA",
@@ -411,7 +411,7 @@
       "comments": 0
     },
     "performance_score": 0.0,
-    "analyzed_at": "2026-03-22T06:50:45.695004"
+    "analyzed_at": "2026-03-23T07:08:40.789181"
   },
   {
     "video_id": "58Gzc6fDwx8",
@@ -421,10 +421,12 @@
     "metrics": {
       "views": 2,
       "likes": 0,
-      "comments": 0
+      "comments": 0,
+      "watch_time_minutes": 0,
+      "avg_view_duration_seconds": 4
     },
-    "performance_score": 0.005,
-    "analyzed_at": "2026-03-22T06:50:45.820378"
+    "performance_score": 0.085,
+    "analyzed_at": "2026-03-23T07:08:40.898828"
   },
   {
     "video_id": "zNuMrd_JSXk",
@@ -437,7 +439,7 @@
       "comments": 0
     },
     "performance_score": 0.0,
-    "analyzed_at": "2026-03-22T06:50:45.931990"
+    "analyzed_at": "2026-03-23T07:08:41.001359"
   },
   {
     "video_id": "Z-AJDQGpUV4",
@@ -445,12 +447,14 @@
     "published_at": "2026-03-21T04:48:55Z",
     "topic_family": "planetary_facts",
     "metrics": {
-      "views": 193,
+      "views": 197,
       "likes": 1,
-      "comments": 0
+      "comments": 0,
+      "watch_time_minutes": 10,
+      "avg_view_duration_seconds": 10
     },
-    "performance_score": 0.502,
-    "analyzed_at": "2026-03-22T06:50:45.217606"
+    "performance_score": 0.962,
+    "analyzed_at": "2026-03-23T07:08:40.342538"
   },
   {
     "video_id": "wMdnDQ5RqoM",
@@ -458,12 +462,14 @@
     "published_at": "2026-03-21T01:08:47Z",
     "topic_family": "travel_time",
     "metrics": {
-      "views": 5,
+      "views": 4,
       "likes": 1,
-      "comments": 0
+      "comments": 0,
+      "watch_time_minutes": 0,
+      "avg_view_duration_seconds": 24
     },
-    "performance_score": 0.033,
-    "analyzed_at": "2026-03-22T06:50:45.351830"
+    "performance_score": 0.51,
+    "analyzed_at": "2026-03-23T07:08:40.444795"
   },
   {
     "video_id": "G46FS4EP2KE",
@@ -471,12 +477,14 @@
     "published_at": "2026-03-20T16:33:42Z",
     "topic_family": "travel_time",
     "metrics": {
-      "views": 12,
+      "views": 11,
       "likes": 2,
-      "comments": 0
+      "comments": 0,
+      "watch_time_minutes": 1,
+      "avg_view_duration_seconds": 18
     },
-    "performance_score": 0.07,
-    "analyzed_at": "2026-03-22T06:50:45.461141"
+    "performance_score": 0.453,
+    "analyzed_at": "2026-03-23T07:08:40.573866"
   },
   {
     "video_id": "qnE_1LOqTZY",
@@ -484,12 +492,14 @@
     "published_at": "2026-03-20T08:32:08Z",
     "topic_family": "scale_comparison",
     "metrics": {
-      "views": 3,
+      "views": 1,
       "likes": 0,
-      "comments": 0
+      "comments": 0,
+      "watch_time_minutes": 0,
+      "avg_view_duration_seconds": 0
     },
-    "performance_score": 0.007,
-    "analyzed_at": "2026-03-22T06:50:45.587303"
+    "performance_score": 0.003,
+    "analyzed_at": "2026-03-23T07:08:40.685779"
   },
   {
     "video_id": "WSNxltd2krU",
@@ -502,7 +512,7 @@
       "comments": 0
     },
     "performance_score": 0.0,
-    "analyzed_at": "2026-03-22T06:50:44.855185"
+    "analyzed_at": "2026-03-23T07:08:40.014429"
   },
   {
     "video_id": "cbpfIVC0pTI",
@@ -515,7 +525,7 @@
       "comments": 0
     },
     "performance_score": 0.0,
-    "analyzed_at": "2026-03-22T06:50:44.983922"
+    "analyzed_at": "2026-03-23T07:08:40.132485"
   },
   {
     "video_id": "W6VOi2cK4fI",
@@ -528,6 +538,45 @@
       "comments": 0
     },
     "performance_score": 0.003,
-    "analyzed_at": "2026-03-22T06:50:45.106389"
+    "analyzed_at": "2026-03-23T07:08:40.236307"
+  },
+  {
+    "video_id": "LmXyBpkiVjE",
+    "title": "Andromeda: How Fast Can We Go? \ud83d\udca8\ud83c\udf0c",
+    "published_at": "2026-03-23T01:18:02Z",
+    "topic_family": "travel_time",
+    "metrics": {
+      "views": 7,
+      "likes": 0,
+      "comments": 0
+    },
+    "performance_score": 0.018,
+    "analyzed_at": "2026-03-23T07:08:39.688171"
+  },
+  {
+    "video_id": "Bw7Gyez9soU",
+    "title": "To The Galactic Core?! \ud83d\ude80\ud83d\udda4",
+    "published_at": "2026-03-22T16:21:19Z",
+    "topic_family": "travel_time",
+    "metrics": {
+      "views": 1,
+      "likes": 0,
+      "comments": 0
+    },
+    "performance_score": 0.003,
+    "analyzed_at": "2026-03-23T07:08:39.782498"
+  },
+  {
+    "video_id": "0VrjJqkjEWo",
+    "title": "Leave Our Solar System? NOT FAST! \ud83e\udd2f\ud83d\ude80",
+    "published_at": "2026-03-22T08:25:28Z",
+    "topic_family": "travel_time",
+    "metrics": {
+      "views": 0,
+      "likes": 0,
+      "comments": 0
+    },
+    "performance_score": 0.0,
+    "analyzed_at": "2026-03-23T07:08:39.898869"
   }
 ]
