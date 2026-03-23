@@ -1,0 +1,92 @@
+{
+  "idea": {
+    "topic": "Quasar Luminosity",
+    "topic_family": "general",
+    "hook": "The Brightest Objects in the Universe?",
+    "facts": [
+      "Quasars are galactic cores powered by supermassive black holes actively consuming matter.",
+      "A typical quasar can outshine an entire galaxy of hundreds of billions of stars by thousands of times.",
+      "The most luminous quasar known, J0439+1634, is 600 TRILLION times brighter than our Sun!"
+    ],
+    "payoff": "These cosmic beacons reveal the most extreme power sources in existence, visible across billions of light-years!",
+    "title": "Universe's BRIGHTEST?! \u2728\ud83e\udd2f",
+    "hashtags": [
+      "#Quasar",
+      "#BlackHole",
+      "#Astrophysics",
+      "#CosmicGiants",
+      "#SpaceFacts"
+    ],
+    "generated_at": "2026-03-23T16:46:36.281704",
+    "status": "pending",
+    "strategy_based": true
+  },
+  "script": {
+    "total_duration": 20,
+    "scenes": [
+      {
+        "scene_number": 1,
+        "start_time": 0,
+        "duration": 3,
+        "text": "The Brightest Objects in the Universe?",
+        "text_position": "center",
+        "text_size": "large",
+        "visual": "A dark, starry background with a single, intensely bright point of light appearing and shimmering.",
+        "animation": "fade_in"
+      },
+      {
+        "scene_number": 2,
+        "start_time": 3,
+        "duration": 4,
+        "text": "QUASARS: Galactic cores fueled by supermassive black holes.",
+        "text_position": "center",
+        "text_size": "medium",
+        "visual": "An abstract, vibrant depiction of a black hole's accretion disk, glowing intensely as matter spirals in.",
+        "animation": "zoom_in"
+      },
+      {
+        "scene_number": 3,
+        "start_time": 7,
+        "duration": 4,
+        "text": "They outshine entire galaxies by THOUSANDS of times.",
+        "text_position": "center",
+        "text_size": "medium",
+        "visual": "A single, incredibly bright quasar dominates the center, surrounded by many smaller, dimmer galaxies in the cosmic background.",
+        "animation": "slide_left"
+      },
+      {
+        "scene_number": 4,
+        "start_time": 11,
+        "duration": 4,
+        "text": "Most luminous: J0439+1634 is 600 TRILLIONx brighter than our Sun!",
+        "text_position": "center",
+        "text_size": "medium",
+        "visual": "A close-up, highly detailed and brilliant rendering of the quasar, with a small icon of our Sun for comparison appearing briefly.",
+        "animation": "slide_right"
+      },
+      {
+        "scene_number": 5,
+        "start_time": 15,
+        "duration": 5,
+        "text": "These cosmic beacons reveal extreme power, visible across billions of light-years!",
+        "text_position": "center",
+        "text_size": "large",
+        "animation": "pulse",
+        "visual": "A breathtaking zoom-out from the quasar, showing its light stretching across a vast, evolving cosmic web of galaxies and nebulae, emphasizing immense scale."
+      }
+    ],
+    "thumbnail_text": "Quasar Luminosity Explained",
+    "background_style": "space_dark"
+  },
+  "formatted_at": "2026-03-23T16:46:44.763456",
+  "status": "uploaded",
+  "rendered_at": "2026-03-23T16:47:54.448837",
+  "video_path": "videos_output/quasar_luminosity_20260323_164645.mp4",
+  "uploaded_at": "2026-03-23T16:47:57.917539",
+  "youtube": {
+    "video_id": "2r4M4dzpqn0",
+    "url": "https://youtube.com/shorts/2r4M4dzpqn0",
+    "title": "Universe's BRIGHTEST?! \u2728\ud83e\udd2f",
+    "uploaded_at": "2026-03-23T16:47:57.917401"
+  }
+}

@@ -437,5 +437,28 @@
     "status": "formatted",
     "strategy_based": true,
     "formatted_at": "2026-03-23T08:45:00.486444"
+  },
+  {
+    "topic": "Quasar Luminosity",
+    "topic_family": "general",
+    "hook": "The Brightest Objects in the Universe?",
+    "facts": [
+      "Quasars are galactic cores powered by supermassive black holes actively consuming matter.",
+      "A typical quasar can outshine an entire galaxy of hundreds of billions of stars by thousands of times.",
+      "The most luminous quasar known, J0439+1634, is 600 TRILLION times brighter than our Sun!"
+    ],
+    "payoff": "These cosmic beacons reveal the most extreme power sources in existence, visible across billions of light-years!",
+    "title": "Universe's BRIGHTEST?! \u2728\ud83e\udd2f",
+    "hashtags": [
+      "#Quasar",
+      "#BlackHole",
+      "#Astrophysics",
+      "#CosmicGiants",
+      "#SpaceFacts"
+    ],
+    "generated_at": "2026-03-23T16:46:36.281704",
+    "status": "formatted",
+    "strategy_based": true,
+    "formatted_at": "2026-03-23T16:46:44.763669"
   }
 ]
