@@ -418,5 +418,24 @@
     "status": "formatted",
     "strategy_based": true,
     "formatted_at": "2026-03-23T01:16:34.992179"
+  },
+  {
+    "topic": "Titan human flight",
+    "topic_family": "planetary_facts",
+    "hook": "Ever dream of flying... without a plane? \ud83e\udeb6",
+    "facts": [
+      "Saturn's moon Titan has an atmosphere ~4x denser than Earth's at sea level.",
+      "Its surface gravity is only 1/7th (~14%) of Earth's.",
+      "These conditions create a low-gravity, high-density air environment."
+    ],
+    "payoff": "A human with small, wearable wings could theoretically take flight and soar through Titan's orange skies!",
+    "title": "YOU Could FLY on Titan! \ud83e\udd2f\ud83c\udf0c",
+    "hashtags": [
+      "#Titan #SpaceFacts #PlanetaryScience #AstroPhysics #HumanFlight"
+    ],
+    "generated_at": "2026-03-23T08:44:51.630266",
+    "status": "formatted",
+    "strategy_based": true,
+    "formatted_at": "2026-03-23T08:45:00.486444"
   }
 ]
