@@ -395,5 +395,28 @@
     "status": "formatted",
     "strategy_based": true,
     "formatted_at": "2026-03-22T16:19:05.533475"
+  },
+  {
+    "topic": "Andromeda Travel Time",
+    "topic_family": "travel_time",
+    "hook": "Andromeda's collision is millions of years away... but how long would it take to *visit*?",
+    "facts": [
+      "Andromeda Galaxy is 2.537 million light-years (ly) away.",
+      "Traveling at light speed (c), the journey would take 2.537 million years.",
+      "Our fastest spacecraft, Parker Solar Probe (692,000 km/h), would take 3.96 BILLION years!"
+    ],
+    "payoff": "Intergalactic travel is a cosmic time capsule \u2013 even at light speed, the journey is longer than human civilization. The universe truly is immense!",
+    "title": "Andromeda: How Fast Can We Go? \ud83d\udca8\ud83c\udf0c",
+    "hashtags": [
+      "#Andromeda",
+      "#SpaceTravel",
+      "#LightSpeed",
+      "#Astrophysics",
+      "#CosmicScale"
+    ],
+    "generated_at": "2026-03-23T01:16:26.724360",
+    "status": "formatted",
+    "strategy_based": true,
+    "formatted_at": "2026-03-23T01:16:34.992179"
   }
 ]
