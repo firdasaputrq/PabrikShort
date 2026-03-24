@@ -1,0 +1,92 @@
+{
+  "idea": {
+    "topic": "Cosmic Microwave Background",
+    "topic_family": "general",
+    "hook": "Can you see the Big Bang's first light?",
+    "facts": [
+      "For ~380,000 years after the Big Bang, the universe was a dense, opaque plasma.",
+      "As it expanded and cooled to ~3,000 Kelvin, electrons formed atoms, making space transparent.",
+      "This released a flood of light \u2013 the 'Cosmic Microwave Background' (CMB) \u2013 which we still detect today."
+    ],
+    "payoff": "This ancient light, now cooled to just 2.7 Kelvin, is the oldest thing we can ever observe \u2013 the universe's baby picture!",
+    "title": "See The Universe's BABY PICTURE! \ud83d\udcf8\ud83c\udf0c",
+    "hashtags": [
+      "#CMB",
+      "#BigBang",
+      "#Astrophysics",
+      "#SpaceFacts",
+      "#CosmicBackground"
+    ],
+    "generated_at": "2026-03-24T01:09:17.639994",
+    "status": "pending",
+    "strategy_based": true
+  },
+  "script": {
+    "total_duration": 20,
+    "scenes": [
+      {
+        "scene_number": 1,
+        "start_time": 0,
+        "duration": 3,
+        "text": "Can you see the Big Bang's first light?",
+        "text_position": "center",
+        "text_size": "large",
+        "visual": "A swirling vortex of light and energy, implying the beginning of the universe.",
+        "animation": "fade_in"
+      },
+      {
+        "scene_number": 2,
+        "start_time": 3,
+        "duration": 4,
+        "text": "For ~380k years, universe was opaque plasma.",
+        "text_position": "bottom",
+        "text_size": "medium",
+        "visual": "An animated depiction of a dense, fiery red/orange plasma sphere, particles colliding rapidly.",
+        "animation": "zoom_in"
+      },
+      {
+        "scene_number": 3,
+        "start_time": 7,
+        "duration": 4,
+        "text": "Cooled to 3,000K, atoms formed, space cleared.",
+        "text_position": "bottom",
+        "text_size": "medium",
+        "visual": "The plasma sphere cools, changing to yellow/white. Electrons visibly combine with nuclei to form atoms, and streaks of light burst outwards.",
+        "animation": "slide_left"
+      },
+      {
+        "scene_number": 4,
+        "start_time": 11,
+        "duration": 4,
+        "text": "This released the 'Cosmic Microwave Background' (CMB)!",
+        "text_position": "bottom",
+        "text_size": "medium",
+        "visual": "The light expands, transforming into faint, uniform microwave radiation ripples filling space. A subtle 'CMB' label appears over the ripples.",
+        "animation": "slide_right"
+      },
+      {
+        "scene_number": 5,
+        "start_time": 15,
+        "duration": 5,
+        "text": "CMB: Universe's baby picture, oldest light at 2.7K!",
+        "text_position": "center",
+        "text_size": "large",
+        "animation": "pulse",
+        "visual": "A stunning, detailed full-sphere map of the Cosmic Microwave Background (e.g., Planck or WMAP data), slightly pulsing with color variations, rotating slowly."
+      }
+    ],
+    "thumbnail_text": "Universe's Baby Picture!",
+    "background_style": "space_dark"
+  },
+  "formatted_at": "2026-03-24T01:09:25.215055",
+  "status": "uploaded",
+  "rendered_at": "2026-03-24T01:11:12.971686",
+  "video_path": "videos_output/cosmic_microwave_background_20260324_010925.mp4",
+  "uploaded_at": "2026-03-24T01:11:15.962993",
+  "youtube": {
+    "video_id": "l_SyzvvlFKo",
+    "url": "https://youtube.com/shorts/l_SyzvvlFKo",
+    "title": "See The Universe's BABY PICTURE! \ud83d\udcf8\ud83c\udf0c",
+    "uploaded_at": "2026-03-24T01:11:15.962872"
+  }
+}
