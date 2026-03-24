@@ -338,7 +338,7 @@
       "avg_view_duration_seconds": 6
     },
     "performance_score": 0.155,
-    "analyzed_at": "2026-03-23T07:08:41.457451"
+    "analyzed_at": "2026-03-24T07:02:55.378956"
   },
   {
     "video_id": "aqCps4ljjtw",
@@ -368,7 +368,7 @@
       "avg_view_duration_seconds": 4
     },
     "performance_score": 0.085,
-    "analyzed_at": "2026-03-23T07:08:41.107905"
+    "analyzed_at": "2026-03-24T07:02:54.878693"
   },
   {
     "video_id": "TzTKHCSyCLQ",
@@ -383,7 +383,7 @@
       "avg_view_duration_seconds": 9
     },
     "performance_score": 1.46,
-    "analyzed_at": "2026-03-23T07:08:41.223793"
+    "analyzed_at": "2026-03-24T07:02:55.039321"
   },
   {
     "video_id": "_ddtJh0kodY",
@@ -398,7 +398,7 @@
       "avg_view_duration_seconds": 17
     },
     "performance_score": 0.395,
-    "analyzed_at": "2026-03-23T07:08:41.348232"
+    "analyzed_at": "2026-03-24T07:02:55.213523"
   },
   {
     "video_id": "JLYrvt9SjAA",
@@ -411,7 +411,7 @@
       "comments": 0
     },
     "performance_score": 0.0,
-    "analyzed_at": "2026-03-23T07:08:40.789181"
+    "analyzed_at": "2026-03-24T07:02:54.403469"
   },
   {
     "video_id": "58Gzc6fDwx8",
@@ -426,7 +426,7 @@
       "avg_view_duration_seconds": 4
     },
     "performance_score": 0.085,
-    "analyzed_at": "2026-03-23T07:08:40.898828"
+    "analyzed_at": "2026-03-24T07:02:54.561313"
   },
   {
     "video_id": "zNuMrd_JSXk",
@@ -439,7 +439,7 @@
       "comments": 0
     },
     "performance_score": 0.0,
-    "analyzed_at": "2026-03-23T07:08:41.001359"
+    "analyzed_at": "2026-03-24T07:02:54.705510"
   },
   {
     "video_id": "Z-AJDQGpUV4",
@@ -447,14 +447,14 @@
     "published_at": "2026-03-21T04:48:55Z",
     "topic_family": "planetary_facts",
     "metrics": {
-      "views": 197,
+      "views": 200,
       "likes": 1,
       "comments": 0,
       "watch_time_minutes": 10,
       "avg_view_duration_seconds": 10
     },
-    "performance_score": 0.962,
-    "analyzed_at": "2026-03-23T07:08:40.342538"
+    "performance_score": 0.97,
+    "analyzed_at": "2026-03-24T07:02:53.759914"
   },
   {
     "video_id": "wMdnDQ5RqoM",
@@ -462,14 +462,14 @@
     "published_at": "2026-03-21T01:08:47Z",
     "topic_family": "travel_time",
     "metrics": {
-      "views": 4,
+      "views": 5,
       "likes": 1,
       "comments": 0,
       "watch_time_minutes": 0,
       "avg_view_duration_seconds": 24
     },
-    "performance_score": 0.51,
-    "analyzed_at": "2026-03-23T07:08:40.444795"
+    "performance_score": 0.512,
+    "analyzed_at": "2026-03-24T07:02:53.909788"
   },
   {
     "video_id": "G46FS4EP2KE",
@@ -477,14 +477,14 @@
     "published_at": "2026-03-20T16:33:42Z",
     "topic_family": "travel_time",
     "metrics": {
-      "views": 11,
+      "views": 12,
       "likes": 2,
       "comments": 0,
       "watch_time_minutes": 1,
       "avg_view_duration_seconds": 18
     },
-    "performance_score": 0.453,
-    "analyzed_at": "2026-03-23T07:08:40.573866"
+    "performance_score": 0.455,
+    "analyzed_at": "2026-03-24T07:02:54.078478"
   },
   {
     "video_id": "qnE_1LOqTZY",
@@ -492,14 +492,14 @@
     "published_at": "2026-03-20T08:32:08Z",
     "topic_family": "scale_comparison",
     "metrics": {
-      "views": 1,
+      "views": 3,
       "likes": 0,
       "comments": 0,
       "watch_time_minutes": 0,
-      "avg_view_duration_seconds": 0
+      "avg_view_duration_seconds": 21
     },
-    "performance_score": 0.003,
-    "analyzed_at": "2026-03-23T07:08:40.685779"
+    "performance_score": 0.427,
+    "analyzed_at": "2026-03-24T07:02:54.242524"
   },
   {
     "video_id": "WSNxltd2krU",
@@ -512,7 +512,7 @@
       "comments": 0
     },
     "performance_score": 0.0,
-    "analyzed_at": "2026-03-23T07:08:40.014429"
+    "analyzed_at": "2026-03-24T07:02:53.206318"
   },
   {
     "video_id": "cbpfIVC0pTI",
@@ -525,7 +525,7 @@
       "comments": 0
     },
     "performance_score": 0.0,
-    "analyzed_at": "2026-03-23T07:08:40.132485"
+    "analyzed_at": "2026-03-24T07:02:53.398622"
   },
   {
     "video_id": "W6VOi2cK4fI",
@@ -535,10 +535,12 @@
     "metrics": {
       "views": 1,
       "likes": 0,
-      "comments": 0
+      "comments": 0,
+      "watch_time_minutes": 0,
+      "avg_view_duration_seconds": 0
     },
     "performance_score": 0.003,
-    "analyzed_at": "2026-03-23T07:08:40.236307"
+    "analyzed_at": "2026-03-24T07:02:53.584952"
   },
   {
     "video_id": "LmXyBpkiVjE",
@@ -546,12 +548,12 @@
     "published_at": "2026-03-23T01:18:02Z",
     "topic_family": "travel_time",
     "metrics": {
-      "views": 7,
+      "views": 10,
       "likes": 0,
       "comments": 0
     },
-    "performance_score": 0.018,
-    "analyzed_at": "2026-03-23T07:08:39.688171"
+    "performance_score": 0.025,
+    "analyzed_at": "2026-03-24T07:02:52.720725"
   },
   {
     "video_id": "Bw7Gyez9soU",
@@ -564,7 +566,7 @@
       "comments": 0
     },
     "performance_score": 0.003,
-    "analyzed_at": "2026-03-23T07:08:39.782498"
+    "analyzed_at": "2026-03-24T07:02:52.869456"
   },
   {
     "video_id": "0VrjJqkjEWo",
@@ -577,6 +579,45 @@
       "comments": 0
     },
     "performance_score": 0.0,
-    "analyzed_at": "2026-03-23T07:08:39.898869"
+    "analyzed_at": "2026-03-24T07:02:53.023590"
+  },
+  {
+    "video_id": "l_SyzvvlFKo",
+    "title": "See The Universe's BABY PICTURE! \ud83d\udcf8\ud83c\udf0c",
+    "published_at": "2026-03-24T01:11:33Z",
+    "topic_family": "scale_comparison",
+    "metrics": {
+      "views": 169,
+      "likes": 1,
+      "comments": 0
+    },
+    "performance_score": 0.443,
+    "analyzed_at": "2026-03-24T07:02:52.265886"
+  },
+  {
+    "video_id": "2r4M4dzpqn0",
+    "title": "Universe's BRIGHTEST?! \u2728\ud83e\udd2f",
+    "published_at": "2026-03-23T16:48:50Z",
+    "topic_family": "general",
+    "metrics": {
+      "views": 1,
+      "likes": 0,
+      "comments": 0
+    },
+    "performance_score": 0.003,
+    "analyzed_at": "2026-03-24T07:02:52.427199"
+  },
+  {
+    "video_id": "fTaIqD2xnfo",
+    "title": "YOU Could FLY on Titan! \ud83e\udd2f\ud83c\udf0c",
+    "published_at": "2026-03-23T08:46:37Z",
+    "topic_family": "planetary_facts",
+    "metrics": {
+      "views": 2,
+      "likes": 0,
+      "comments": 0
+    },
+    "performance_score": 0.005,
+    "analyzed_at": "2026-03-24T07:02:52.567737"
   }
 ]
