@@ -618,5 +618,29 @@
     "status": "formatted",
     "strategy_based": true,
     "formatted_at": "2026-03-26T01:20:31.576110"
+  },
+  {
+    "topic": "Saturn's Density",
+    "topic_family": "planetary_facts",
+    "hook": "Which planet could FLOAT in water? \ud83e\udd2f",
+    "facts": [
+      "Water's average density: 1.0 g/cm\u00b3",
+      "Earth's average density: ~5.51 g/cm\u00b3 (5x denser than water)",
+      "Jupiter's average density: ~1.33 g/cm\u00b3 (denser than water)",
+      "Saturn's average density: ~0.687 g/cm\u00b3 (LESS dense than water!)"
+    ],
+    "payoff": "Saturn is the ONLY planet in our solar system less dense than water. It would literally float!",
+    "title": "Saturn: The Planet That Floats?! \ud83d\udec1\ud83e\ude90",
+    "hashtags": [
+      "#Saturn",
+      "#SpaceFacts",
+      "#Planets",
+      "#Astronomy",
+      "#Science"
+    ],
+    "generated_at": "2026-03-26T08:43:29.183717",
+    "status": "formatted",
+    "strategy_based": true,
+    "formatted_at": "2026-03-26T08:43:38.401731"
   }
 ]
