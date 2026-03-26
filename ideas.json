@@ -642,5 +642,29 @@
     "status": "formatted",
     "strategy_based": true,
     "formatted_at": "2026-03-26T08:43:38.401731"
+  },
+  {
+    "topic": "Io's Extreme Volcanism",
+    "topic_family": "planetary_facts",
+    "hook": "The Solar System's MOST volcanically active body?",
+    "facts": [
+      "It's not Earth or Mars, but Jupiter's moon, Io!",
+      "Io is covered in over 400 active volcanoes, erupting sulfur plumes.",
+      "These plumes can blast 500 km (300 miles) high, constantly resurfacing the moon.",
+      "Its extreme activity is fueled by immense tidal forces from Jupiter, continuously heating Io's interior."
+    ],
+    "payoff": "This makes Io the most geologically active world in our Solar System, a fiery moon perpetually reborn!",
+    "title": "Io's Fiery Secret! \ud83d\udd25\ud83c\udf0b",
+    "hashtags": [
+      "#SpaceFacts",
+      "#Io",
+      "#Jupiter",
+      "#Volcanoes",
+      "#Astrophysics"
+    ],
+    "generated_at": "2026-03-26T16:53:51.282905",
+    "status": "formatted",
+    "strategy_based": true,
+    "formatted_at": "2026-03-26T16:53:59.018729"
   }
 ]
