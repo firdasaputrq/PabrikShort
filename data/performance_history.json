@@ -509,10 +509,12 @@
     "metrics": {
       "views": 1,
       "likes": 0,
-      "comments": 0
+      "comments": 0,
+      "watch_time_minutes": 0,
+      "avg_view_duration_seconds": 0
     },
     "performance_score": 0.003,
-    "analyzed_at": "2026-03-27T07:06:09.375081"
+    "analyzed_at": "2026-03-28T06:58:17.850485"
   },
   {
     "video_id": "cbpfIVC0pTI",
@@ -522,10 +524,12 @@
     "metrics": {
       "views": 1,
       "likes": 0,
-      "comments": 0
+      "comments": 0,
+      "watch_time_minutes": 0,
+      "avg_view_duration_seconds": 0
     },
     "performance_score": 0.003,
-    "analyzed_at": "2026-03-27T07:06:09.502235"
+    "analyzed_at": "2026-03-28T06:58:17.936889"
   },
   {
     "video_id": "W6VOi2cK4fI",
@@ -548,105 +552,19 @@
     "published_at": "2026-03-23T01:18:02Z",
     "topic_family": "travel_time",
     "metrics": {
-      "views": 13,
+      "views": 14,
       "likes": 0,
       "comments": 0,
       "watch_time_minutes": 0,
       "avg_view_duration_seconds": 7
     },
-    "performance_score": 0.172,
-    "analyzed_at": "2026-03-27T07:06:08.954533"
+    "performance_score": 0.175,
+    "analyzed_at": "2026-03-28T06:58:17.569914"
   },
   {
     "video_id": "Bw7Gyez9soU",
     "title": "To The Galactic Core?! \ud83d\ude80\ud83d\udda4",
     "published_at": "2026-03-22T16:21:19Z",
-    "topic_family": "travel_time",
-    "metrics": {
-      "views": 1,
-      "likes": 0,
-      "comments": 0,
-      "watch_time_minutes": 0,
-      "avg_view_duration_seconds": 4
-    },
-    "performance_score": 0.083,
-    "analyzed_at": "2026-03-27T07:06:09.111075"
-  },
-  {
-    "video_id": "0VrjJqkjEWo",
-    "title": "Leave Our Solar System? NOT FAST! \ud83e\udd2f\ud83d\ude80",
-    "published_at": "2026-03-22T08:25:28Z",
-    "topic_family": "travel_time",
-    "metrics": {
-      "views": 1,
-      "likes": 0,
-      "comments": 0
-    },
-    "performance_score": 0.003,
-    "analyzed_at": "2026-03-27T07:06:09.245833"
-  },
-  {
-    "video_id": "l_SyzvvlFKo",
-    "title": "See The Universe's BABY PICTURE! \ud83d\udcf8\ud83c\udf0c",
-    "published_at": "2026-03-24T01:11:33Z",
-    "topic_family": "scale_comparison",
-    "metrics": {
-      "views": 182,
-      "likes": 1,
-      "comments": 0,
-      "watch_time_minutes": 7,
-      "avg_view_duration_seconds": 10
-    },
-    "performance_score": 0.85,
-    "analyzed_at": "2026-03-27T07:06:08.518013"
-  },
-  {
-    "video_id": "2r4M4dzpqn0",
-    "title": "Universe's BRIGHTEST?! \u2728\ud83e\udd2f",
-    "published_at": "2026-03-23T16:48:50Z",
-    "topic_family": "general",
-    "metrics": {
-      "views": 1,
-      "likes": 0,
-      "comments": 0,
-      "watch_time_minutes": 0,
-      "avg_view_duration_seconds": 4
-    },
-    "performance_score": 0.083,
-    "analyzed_at": "2026-03-27T07:06:08.673242"
-  },
-  {
-    "video_id": "fTaIqD2xnfo",
-    "title": "YOU Could FLY on Titan! \ud83e\udd2f\ud83c\udf0c",
-    "published_at": "2026-03-23T08:46:37Z",
-    "topic_family": "planetary_facts",
-    "metrics": {
-      "views": 3,
-      "likes": 0,
-      "comments": 0,
-      "watch_time_minutes": 0,
-      "avg_view_duration_seconds": 5
-    },
-    "performance_score": 0.107,
-    "analyzed_at": "2026-03-27T07:06:08.821699"
-  },
-  {
-    "video_id": "OFDDRiT_BGc",
-    "title": "To The Kuiper Belt! \ud83d\ude80\u2744\ufe0f\ud83c\udf0c",
-    "published_at": "2026-03-25T01:16:30Z",
-    "topic_family": "travel_time",
-    "metrics": {
-      "views": 3,
-      "likes": 0,
-      "comments": 0
-    },
-    "performance_score": 0.007,
-    "analyzed_at": "2026-03-27T07:06:08.100566"
-  },
-  {
-    "video_id": "s3rmzotBqto",
-    "title": "Visit A Galaxy Cluster?! \ud83e\udd2f\ud83c\udf0c",
-    "published_at": "2026-03-24T17:05:25Z",
     "topic_family": "travel_time",
     "metrics": {
       "views": 2,
@@ -656,7 +574,97 @@
       "avg_view_duration_seconds": 4
     },
     "performance_score": 0.085,
-    "analyzed_at": "2026-03-27T07:06:08.240744"
+    "analyzed_at": "2026-03-28T06:58:17.671101"
+  },
+  {
+    "video_id": "0VrjJqkjEWo",
+    "title": "Leave Our Solar System? NOT FAST! \ud83e\udd2f\ud83d\ude80",
+    "published_at": "2026-03-22T08:25:28Z",
+    "topic_family": "travel_time",
+    "metrics": {
+      "views": 1,
+      "likes": 0,
+      "comments": 0,
+      "watch_time_minutes": 0,
+      "avg_view_duration_seconds": 0
+    },
+    "performance_score": 0.003,
+    "analyzed_at": "2026-03-28T06:58:17.758066"
+  },
+  {
+    "video_id": "l_SyzvvlFKo",
+    "title": "See The Universe's BABY PICTURE! \ud83d\udcf8\ud83c\udf0c",
+    "published_at": "2026-03-24T01:11:33Z",
+    "topic_family": "scale_comparison",
+    "metrics": {
+      "views": 183,
+      "likes": 1,
+      "comments": 0,
+      "watch_time_minutes": 7,
+      "avg_view_duration_seconds": 10
+    },
+    "performance_score": 0.853,
+    "analyzed_at": "2026-03-28T06:58:17.276402"
+  },
+  {
+    "video_id": "2r4M4dzpqn0",
+    "title": "Universe's BRIGHTEST?! \u2728\ud83e\udd2f",
+    "published_at": "2026-03-23T16:48:50Z",
+    "topic_family": "general",
+    "metrics": {
+      "views": 2,
+      "likes": 0,
+      "comments": 0,
+      "watch_time_minutes": 0,
+      "avg_view_duration_seconds": 4
+    },
+    "performance_score": 0.085,
+    "analyzed_at": "2026-03-28T06:58:17.382647"
+  },
+  {
+    "video_id": "fTaIqD2xnfo",
+    "title": "YOU Could FLY on Titan! \ud83e\udd2f\ud83c\udf0c",
+    "published_at": "2026-03-23T08:46:37Z",
+    "topic_family": "planetary_facts",
+    "metrics": {
+      "views": 4,
+      "likes": 0,
+      "comments": 0,
+      "watch_time_minutes": 0,
+      "avg_view_duration_seconds": 5
+    },
+    "performance_score": 0.11,
+    "analyzed_at": "2026-03-28T06:58:17.474953"
+  },
+  {
+    "video_id": "OFDDRiT_BGc",
+    "title": "To The Kuiper Belt! \ud83d\ude80\u2744\ufe0f\ud83c\udf0c",
+    "published_at": "2026-03-25T01:16:30Z",
+    "topic_family": "travel_time",
+    "metrics": {
+      "views": 2,
+      "likes": 0,
+      "comments": 0,
+      "watch_time_minutes": 0,
+      "avg_view_duration_seconds": 0
+    },
+    "performance_score": 0.005,
+    "analyzed_at": "2026-03-28T06:58:16.976430"
+  },
+  {
+    "video_id": "s3rmzotBqto",
+    "title": "Visit A Galaxy Cluster?! \ud83e\udd2f\ud83c\udf0c",
+    "published_at": "2026-03-24T17:05:25Z",
+    "topic_family": "travel_time",
+    "metrics": {
+      "views": 5,
+      "likes": 0,
+      "comments": 0,
+      "watch_time_minutes": 0,
+      "avg_view_duration_seconds": 4
+    },
+    "performance_score": 0.092,
+    "analyzed_at": "2026-03-28T06:58:17.087766"
   },
   {
     "video_id": "9MJB2POT9qo",
@@ -666,10 +674,12 @@
     "metrics": {
       "views": 1,
       "likes": 0,
-      "comments": 0
+      "comments": 0,
+      "watch_time_minutes": 0,
+      "avg_view_duration_seconds": 0
     },
     "performance_score": 0.003,
-    "analyzed_at": "2026-03-27T07:06:08.366324"
+    "analyzed_at": "2026-03-28T06:58:17.183426"
   },
   {
     "video_id": "kQsHor0UVfE",
@@ -677,12 +687,12 @@
     "published_at": "2026-03-26T01:22:11Z",
     "topic_family": "travel_time",
     "metrics": {
-      "views": 3,
+      "views": 2,
       "likes": 0,
       "comments": 0
     },
-    "performance_score": 0.007,
-    "analyzed_at": "2026-03-27T07:06:07.712786"
+    "performance_score": 0.005,
+    "analyzed_at": "2026-03-28T06:58:16.684732"
   },
   {
     "video_id": "IeU8xaBcSFs",
@@ -690,12 +700,14 @@
     "published_at": "2026-03-25T16:56:42Z",
     "topic_family": "scale_comparison",
     "metrics": {
-      "views": 12,
+      "views": 8,
       "likes": 0,
-      "comments": 0
+      "comments": 0,
+      "watch_time_minutes": 0,
+      "avg_view_duration_seconds": 2
     },
-    "performance_score": 0.03,
-    "analyzed_at": "2026-03-27T07:06:07.841469"
+    "performance_score": 0.06,
+    "analyzed_at": "2026-03-28T06:58:16.777495"
   },
   {
     "video_id": "TgyGBuUVZnY",
@@ -703,12 +715,14 @@
     "published_at": "2026-03-25T08:41:04Z",
     "topic_family": "scale_comparison",
     "metrics": {
-      "views": 1902,
+      "views": 1900,
       "likes": 12,
-      "comments": 0
+      "comments": 0,
+      "watch_time_minutes": 120,
+      "avg_view_duration_seconds": 10
     },
-    "performance_score": 0.99,
-    "analyzed_at": "2026-03-27T07:06:07.970079"
+    "performance_score": 1.94,
+    "analyzed_at": "2026-03-28T06:58:16.864801"
   },
   {
     "video_id": "UdvIrAJKmZY",
@@ -716,12 +730,12 @@
     "published_at": "2026-03-27T01:20:59Z",
     "topic_family": "planetary_facts",
     "metrics": {
-      "views": 5,
+      "views": 141,
       "likes": 1,
       "comments": 0
     },
-    "performance_score": 0.033,
-    "analyzed_at": "2026-03-27T07:06:07.349612"
+    "performance_score": 0.372,
+    "analyzed_at": "2026-03-28T06:58:16.411943"
   },
   {
     "video_id": "vK9c54g1LYo",
@@ -734,7 +748,7 @@
       "comments": 0
     },
     "performance_score": 0.033,
-    "analyzed_at": "2026-03-27T07:06:07.477044"
+    "analyzed_at": "2026-03-28T06:58:16.496840"
   },
   {
     "video_id": "fYsWwFpuvPE",
@@ -747,6 +761,45 @@
       "comments": 0
     },
     "performance_score": 0.31,
-    "analyzed_at": "2026-03-27T07:06:07.584557"
+    "analyzed_at": "2026-03-28T06:58:16.579981"
+  },
+  {
+    "video_id": "Q-YHQ4OiAO4",
+    "title": "Black Hole Sizes: From City to Cosmos! \u26ab\ufe0f\ud83c\udf0c",
+    "published_at": "2026-03-28T01:16:31Z",
+    "topic_family": "scale_comparison",
+    "metrics": {
+      "views": 159,
+      "likes": 3,
+      "comments": 0
+    },
+    "performance_score": 0.458,
+    "analyzed_at": "2026-03-28T06:58:16.146912"
+  },
+  {
+    "video_id": "jGMdPUj6Y9U",
+    "title": "Nearest Star: How Long To Get There? \ud83c\udf1f\ud83d\ude80",
+    "published_at": "2026-03-27T16:44:50Z",
+    "topic_family": "travel_time",
+    "metrics": {
+      "views": 92,
+      "likes": 1,
+      "comments": 0
+    },
+    "performance_score": 0.25,
+    "analyzed_at": "2026-03-28T06:58:16.228487"
+  },
+  {
+    "video_id": "oS7ULyG_Sks",
+    "title": "Planet of Fire! \ud83d\udd25\ud83e\udd2f",
+    "published_at": "2026-03-27T08:42:13Z",
+    "topic_family": "general",
+    "metrics": {
+      "views": 267,
+      "likes": 5,
+      "comments": 0
+    },
+    "performance_score": 0.767,
+    "analyzed_at": "2026-03-28T06:58:16.314710"
   }
 ]
