@@ -851,5 +851,29 @@
     "status": "formatted",
     "strategy_based": true,
     "formatted_at": "2026-03-29T08:30:40.866990"
+  },
+  {
+    "topic": "Travel time to Pluto at various speeds",
+    "topic_family": "travel_time",
+    "hook": "Think Pluto is 'nearby'?",
+    "facts": [
+      "Pluto is an average of 5.9 billion km (39.5 AU) from Earth.",
+      "Walking at 5 km/h, it would take you over 134,700 years to reach Pluto!",
+      "NASA's New Horizons spacecraft, our fastest visitor, took 9.5 years.",
+      "But at light speed (299,792 km/s), the journey is just 5 hours, 28 minutes."
+    ],
+    "payoff": "Even our solar system's dwarf planet reveals the mind-boggling scale of space, making light speed feel like a cheat code for cosmic travel!",
+    "title": "Pluto: How Long To Get There?! \ud83d\udeb6\u200d\u2640\ufe0f\ud83d\ude80",
+    "hashtags": [
+      "#Pluto",
+      "#SpaceTravel",
+      "#Astrophysics",
+      "#ScienceFacts",
+      "#LightSpeed"
+    ],
+    "generated_at": "2026-03-29T16:24:40.086591",
+    "status": "formatted",
+    "strategy_based": true,
+    "formatted_at": "2026-03-29T16:24:51.306561"
   }
 ]
