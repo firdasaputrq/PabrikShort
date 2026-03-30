@@ -1,0 +1,92 @@
+{
+  "idea": {
+    "topic": "Proxima Centauri travel time",
+    "topic_family": "travel_time",
+    "hook": "Want to visit our closest stellar neighbor?",
+    "facts": [
+      "Proxima Centauri is 4.24 light-years away. That's ~40 TRILLION kilometers!",
+      "Humanity's fastest craft (Parker Solar Probe, ~692,000 km/h) would take over 6,600 years to get there.",
+      "Even a hypothetical starship at 10% the speed of light would still require a 42-year journey!"
+    ],
+    "payoff": "Interstellar travel demands patience on a cosmic scale. We're not there yet!",
+    "title": "To Our Closest Star? \ud83d\ude80\u23f3",
+    "hashtags": [
+      "#ProximaCentauri",
+      "#SpaceTravel",
+      "#Astrophysics",
+      "#LightYears",
+      "#Universe"
+    ],
+    "generated_at": "2026-03-30T16:46:31.290412",
+    "status": "pending",
+    "strategy_based": true
+  },
+  "script": {
+    "total_duration": 20,
+    "scenes": [
+      {
+        "scene_number": 1,
+        "start_time": 0,
+        "duration": 3,
+        "text": "Want to visit our closest stellar neighbor?",
+        "text_position": "center",
+        "text_size": "large",
+        "visual": "View of deep space with a field of stars. A slightly brighter, red dwarf star (Proxima Centauri) is visible in the distance, with a faint, hopeful trajectory line pointing towards it.",
+        "animation": "fade_in"
+      },
+      {
+        "scene_number": 2,
+        "start_time": 3,
+        "duration": 4,
+        "text": "Proxima Centauri: 4.24 Light-Years Away!",
+        "text_position": "center",
+        "text_size": "medium",
+        "visual": "Deep space background. The text '4.24 Light-Years' appears. Below it, a number counter rapidly scrolls through digits, then settles on 'That's ~40 TRILLION KM!' in a slightly smaller font.",
+        "animation": "zoom_in"
+      },
+      {
+        "scene_number": 3,
+        "start_time": 7,
+        "duration": 4,
+        "text": "Fastest Probe (Parker Solar): 6,600+ YEARS!",
+        "text_position": "center",
+        "text_size": "medium",
+        "visual": "An illustration of the Parker Solar Probe speeding through space. A digital clock overlay shows years rapidly counting up, stopping at '6,600+ YEARS'.",
+        "animation": "slide_left"
+      },
+      {
+        "scene_number": 4,
+        "start_time": 11,
+        "duration": 4,
+        "text": "10% Light Speed Starship? STILL 42 YEARS!",
+        "text_position": "center",
+        "text_size": "medium",
+        "visual": "A sleek, futuristic starship streaks across the screen, leaving a light trail. A calendar animation quickly flips through pages, stopping definitively at '42 Years'.",
+        "animation": "slide_right"
+      },
+      {
+        "scene_number": 5,
+        "start_time": 15,
+        "duration": 5,
+        "text": "INTERSTELLAR TRAVEL: A COSMIC WAIT. WE'RE NOT THERE YET!",
+        "text_position": "center",
+        "text_size": "large",
+        "animation": "pulse",
+        "visual": "The camera pulls back from the distant Proxima Centauri, revealing a small, blue Earth in the foreground. A large, shimmering 'Not Yet' text briefly flashes on screen before fading with the final text."
+      }
+    ],
+    "thumbnail_text": "Proxima Travel: How Long?",
+    "background_style": "space_stars"
+  },
+  "formatted_at": "2026-03-30T16:46:47.437502",
+  "status": "uploaded",
+  "rendered_at": "2026-03-30T16:47:44.438335",
+  "video_path": "videos_output/proxima_centauri_travel_time_20260330_164647.mp4",
+  "uploaded_at": "2026-03-30T16:47:47.558177",
+  "youtube": {
+    "video_id": "-eZjMf5DueM",
+    "url": "https://youtube.com/shorts/-eZjMf5DueM",
+    "title": "To Our Closest Star? \ud83d\ude80\u23f3",
+    "uploaded_at": "2026-03-30T16:47:47.558073"
+  }
+}

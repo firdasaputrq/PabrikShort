@@ -940,5 +940,28 @@
     "status": "formatted",
     "strategy_based": true,
     "formatted_at": "2026-03-30T09:04:05.978738"
+  },
+  {
+    "topic": "Proxima Centauri travel time",
+    "topic_family": "travel_time",
+    "hook": "Want to visit our closest stellar neighbor?",
+    "facts": [
+      "Proxima Centauri is 4.24 light-years away. That's ~40 TRILLION kilometers!",
+      "Humanity's fastest craft (Parker Solar Probe, ~692,000 km/h) would take over 6,600 years to get there.",
+      "Even a hypothetical starship at 10% the speed of light would still require a 42-year journey!"
+    ],
+    "payoff": "Interstellar travel demands patience on a cosmic scale. We're not there yet!",
+    "title": "To Our Closest Star? \ud83d\ude80\u23f3",
+    "hashtags": [
+      "#ProximaCentauri",
+      "#SpaceTravel",
+      "#Astrophysics",
+      "#LightYears",
+      "#Universe"
+    ],
+    "generated_at": "2026-03-30T16:46:31.290412",
+    "status": "formatted",
+    "strategy_based": true,
+    "formatted_at": "2026-03-30T16:46:47.437718"
   }
 ]
