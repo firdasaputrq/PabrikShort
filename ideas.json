@@ -986,5 +986,28 @@
     "status": "formatted",
     "strategy_based": true,
     "formatted_at": "2026-03-31T01:21:37.351700"
+  },
+  {
+    "topic": "All planets fit between Earth and Moon",
+    "topic_family": "planetary_facts",
+    "hook": "Is the space between Earth and the Moon truly vast?",
+    "facts": [
+      "The average distance from Earth to our Moon is approximately 384,400 kilometers.",
+      "The combined diameters of all 8 planets (Mercury, Venus, Earth, Mars, Jupiter, Saturn, Uranus, Neptune) sum up to about 380,010 kilometers.",
+      "This includes Jupiter (139,820 km), Saturn (116,460 km), Uranus (50,724 km), Neptune (49,244 km), Venus (12,104 km), Mars (6,779 km), and Mercury (4,879 km)."
+    ],
+    "payoff": "All eight planets in our Solar System could fit perfectly side-by-side in the gap between Earth and its Moon!",
+    "title": "Earth-Moon Gap: Planet-Sized Surprise! \ud83e\udd2f\ud83c\udf15",
+    "hashtags": [
+      "SpaceFacts",
+      "Planets",
+      "EarthMoon",
+      "SolarSystem",
+      "Astronomy"
+    ],
+    "generated_at": "2026-03-31T08:46:58.562713",
+    "status": "formatted",
+    "strategy_based": true,
+    "formatted_at": "2026-03-31T08:47:10.255926"
   }
 ]
