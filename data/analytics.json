@@ -1,23 +1,23 @@
 {
-  "last_run": "2026-03-30T07:26:32.410600",
+  "last_run": "2026-03-31T07:12:39.970954",
   "channel_id": "UCeyx5r_5clguUHK0AIxBVng",
   "videos_analyzed": 20,
   "topic_scores": {
     "travel_time": {
-      "avg_score": 0.74,
-      "count": 18,
+      "avg_score": 0.701,
+      "count": 19,
       "best": 2.18,
-      "worst": 0.003
+      "worst": 0.0
     },
     "general": {
-      "avg_score": 0.411,
+      "avg_score": 0.412,
       "count": 26,
       "best": 1.57,
       "worst": 0.0
     },
     "scale_comparison": {
-      "avg_score": 0.641,
-      "count": 11,
+      "avg_score": 0.543,
+      "count": 13,
       "best": 2.34,
       "worst": 0.0
     },
