@@ -1,23 +1,23 @@
 {
-  "last_run": "2026-03-31T07:12:39.970954",
+  "last_run": "2026-04-01T07:19:33.113623",
   "channel_id": "UCeyx5r_5clguUHK0AIxBVng",
   "videos_analyzed": 20,
   "topic_scores": {
     "travel_time": {
-      "avg_score": 0.701,
+      "avg_score": 0.721,
       "count": 19,
       "best": 2.18,
       "worst": 0.0
     },
     "general": {
-      "avg_score": 0.412,
-      "count": 26,
-      "best": 1.57,
+      "avg_score": 0.43,
+      "count": 27,
+      "best": 1.8,
       "worst": 0.0
     },
     "scale_comparison": {
-      "avg_score": 0.543,
-      "count": 13,
+      "avg_score": 0.555,
+      "count": 14,
       "best": 2.34,
       "worst": 0.0
     },
@@ -28,10 +28,10 @@
       "worst": 0.0
     },
     "planetary_facts": {
-      "avg_score": 0.817,
-      "count": 7,
+      "avg_score": 0.795,
+      "count": 8,
       "best": 2.22,
-      "worst": 0.023
+      "worst": 0.0
     },
     "hypothetical": {
       "avg_score": 0.085,
