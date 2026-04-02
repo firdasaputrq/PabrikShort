@@ -1,0 +1,92 @@
+{
+  "idea": {
+    "topic": "Barnard's Star b Travel Time",
+    "topic_family": "travel_time",
+    "hook": "You know Proxima Centauri is far. But what about the *next* closest star with a planet?",
+    "facts": [
+      "Barnard's Star b is approximately 6 light-years away, or 56 TRILLION kilometers.",
+      "Traveling at the speed of light (299,792 km/s), it would still take you 6 years to reach it.",
+      "Our fastest probe, Parker Solar Probe, hit a record 635,266 km/h (0.058% light speed)."
+    ],
+    "payoff": "At that speed, reaching Barnard's Star b would take over 10 MILLION years! Interstellar travel is a mind-boggling challenge, even to our nearest exoplanet neighbors!",
+    "title": "Travel to Barnard's Star b! \ud83d\ude80\u23f3\ud83e\udd2f",
+    "hashtags": [
+      "#BarnardsStar",
+      "#Exoplanet",
+      "#SpaceTravel",
+      "#LightSpeed",
+      "#Astrophysics"
+    ],
+    "generated_at": "2026-04-02T01:18:21.939371",
+    "status": "pending",
+    "strategy_based": true
+  },
+  "script": {
+    "total_duration": 20,
+    "scenes": [
+      {
+        "scene_number": 1,
+        "start_time": 0,
+        "duration": 3,
+        "text": "Proxima Centauri is far...",
+        "text_position": "center",
+        "text_size": "large",
+        "visual": "Distant view of a red dwarf star (Proxima Centauri) against a dark, starry background. Faint glow.",
+        "animation": "fade_in"
+      },
+      {
+        "scene_number": 2,
+        "start_time": 3,
+        "duration": 4,
+        "text": "Barnard's Star b: 6 light-years (56 TRILLION km)",
+        "text_position": "center",
+        "text_size": "medium",
+        "visual": "Zoom into Barnard's Star b, showing the star and its exoplanet orbiting. Distance indicator line appears.",
+        "animation": "zoom_in"
+      },
+      {
+        "scene_number": 3,
+        "start_time": 7,
+        "duration": 4,
+        "text": "Light speed (299,792 km/s): 6 YEARS to travel",
+        "text_position": "center",
+        "text_size": "medium",
+        "visual": "Stylized beam of light streaking from left to right across vast space. A digital clock counts '6 YEARS'.",
+        "animation": "slide_left"
+      },
+      {
+        "scene_number": 4,
+        "start_time": 11,
+        "duration": 4,
+        "text": "Fastest probe (Parker Solar Probe): 0.058% light speed.",
+        "text_position": "center",
+        "text_size": "medium",
+        "visual": "Animation of the Parker Solar Probe flying at extreme speed past a stylized Sun. A percentage counter '0.058%' appears.",
+        "animation": "slide_right"
+      },
+      {
+        "scene_number": 5,
+        "start_time": 15,
+        "duration": 5,
+        "text": "OVER 10 MILLION YEARS! A mind-boggling challenge.",
+        "text_position": "center",
+        "text_size": "large",
+        "animation": "pulse",
+        "visual": "Vast, empty space with a huge, flashing number '10,000,000' then 'YEARS'. Fades to a tiny distant star, emphasizing scale."
+      }
+    ],
+    "thumbnail_text": "Barnard's Star b: 10M Years?",
+    "background_style": "space_dark"
+  },
+  "formatted_at": "2026-04-02T01:18:37.809096",
+  "status": "uploaded",
+  "rendered_at": "2026-04-02T01:19:39.235397",
+  "video_path": "videos_output/barnards_star_b_travel_time_20260402_011838.mp4",
+  "uploaded_at": "2026-04-02T01:19:42.210112",
+  "youtube": {
+    "video_id": "EMH3QvnM4C0",
+    "url": "https://youtube.com/shorts/EMH3QvnM4C0",
+    "title": "Travel to Barnard's Star b! \ud83d\ude80\u23f3\ud83e\udd2f",
+    "uploaded_at": "2026-04-02T01:19:42.210002"
+  }
+}

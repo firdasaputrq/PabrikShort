@@ -1103,5 +1103,28 @@
     "status": "formatted",
     "strategy_based": true,
     "formatted_at": "2026-04-01T16:44:46.874696"
+  },
+  {
+    "topic": "Barnard's Star b Travel Time",
+    "topic_family": "travel_time",
+    "hook": "You know Proxima Centauri is far. But what about the *next* closest star with a planet?",
+    "facts": [
+      "Barnard's Star b is approximately 6 light-years away, or 56 TRILLION kilometers.",
+      "Traveling at the speed of light (299,792 km/s), it would still take you 6 years to reach it.",
+      "Our fastest probe, Parker Solar Probe, hit a record 635,266 km/h (0.058% light speed)."
+    ],
+    "payoff": "At that speed, reaching Barnard's Star b would take over 10 MILLION years! Interstellar travel is a mind-boggling challenge, even to our nearest exoplanet neighbors!",
+    "title": "Travel to Barnard's Star b! \ud83d\ude80\u23f3\ud83e\udd2f",
+    "hashtags": [
+      "#BarnardsStar",
+      "#Exoplanet",
+      "#SpaceTravel",
+      "#LightSpeed",
+      "#Astrophysics"
+    ],
+    "generated_at": "2026-04-02T01:18:21.939371",
+    "status": "formatted",
+    "strategy_based": true,
+    "formatted_at": "2026-04-02T01:18:37.809316"
   }
 ]
