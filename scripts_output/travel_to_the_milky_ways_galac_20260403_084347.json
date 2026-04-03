@@ -1,0 +1,92 @@
+{
+  "idea": {
+    "topic": "Travel to the Milky Way's Galactic Center",
+    "topic_family": "travel_time",
+    "hook": "Could humanity ever reach the supermassive black hole at the heart of our galaxy?",
+    "facts": [
+      "The Milky Way's Galactic Center (Sagittarius A*) is ~27,000 light-years from Earth.",
+      "Traveling at the speed of light, this journey would still take 27,000 years.",
+      "In a car cruising at 100 km/h, reaching Sgr A* would take approximately 290 BILLION years."
+    ],
+    "payoff": "Even at light speed, reaching the center of our OWN galaxy is a multi-millennia journey, and with current tech, it would take far longer than the universe has existed!",
+    "title": "Galactic Center Journey: The INSANE Travel Time! \ud83e\udd2f\ud83c\udf0c",
+    "hashtags": [
+      "GalacticCenter",
+      "SagittariusA",
+      "SpaceTravel",
+      "LightSpeed",
+      "MilkyWay"
+    ],
+    "generated_at": "2026-04-03T08:43:34.474837",
+    "status": "pending",
+    "strategy_based": true
+  },
+  "script": {
+    "total_duration": 20,
+    "scenes": [
+      {
+        "scene_number": 1,
+        "start_time": 0,
+        "duration": 3,
+        "text": "Can we reach the Milky Way's heart?",
+        "text_position": "center",
+        "text_size": "large",
+        "visual": "View of the Milky Way galaxy, subtly rotating with a central bright glow. A question mark icon pulses softly.",
+        "animation": "fade_in"
+      },
+      {
+        "scene_number": 2,
+        "start_time": 3,
+        "duration": 4,
+        "text": "Sgr A* is ~27,000 light-years from Earth.",
+        "text_position": "center",
+        "text_size": "medium",
+        "visual": "Stylized representation of Earth and the Galactic Center (Sgr A*) with a dashed line connecting them, numerical distance clearly displayed.",
+        "animation": "zoom_in"
+      },
+      {
+        "scene_number": 3,
+        "start_time": 7,
+        "duration": 4,
+        "text": "At light speed, this trip takes 27,000 years.",
+        "text_position": "center",
+        "text_size": "medium",
+        "visual": "A vibrant beam of light travels rapidly across a starry background, with a digital clock counting up to '27,000 YEARS'.",
+        "animation": "slide_left"
+      },
+      {
+        "scene_number": 4,
+        "start_time": 11,
+        "duration": 4,
+        "text": "By car (100 km/h), it's 290 BILLION years!",
+        "text_position": "center",
+        "text_size": "medium",
+        "visual": "A tiny car icon drives slowly across an immense, dark starry background, the number '290 BILLION YEARS' flashes and grows large.",
+        "animation": "pulse"
+      },
+      {
+        "scene_number": 5,
+        "start_time": 15,
+        "duration": 5,
+        "text": "Further than the universe has existed. The cosmos is VAST.",
+        "text_position": "center",
+        "text_size": "large",
+        "animation": "zoom_out",
+        "visual": "An awe-inspiring, intricate view of the Galactic Center (Sgr A*) surrounded by swirling gas and stars, slowly zooming out to reveal the full grandeur of the Milky Way's core."
+      }
+    ],
+    "thumbnail_text": "Journey to Galactic Center",
+    "background_style": "space_dark"
+  },
+  "formatted_at": "2026-04-03T08:43:47.060039",
+  "status": "uploaded",
+  "rendered_at": "2026-04-03T08:44:40.783546",
+  "video_path": "videos_output/travel_to_the_milky_ways_galac_20260403_084347.mp4",
+  "uploaded_at": "2026-04-03T08:44:43.589501",
+  "youtube": {
+    "video_id": "PyrEN8rxXT8",
+    "url": "https://youtube.com/shorts/PyrEN8rxXT8",
+    "title": "Galactic Center Journey: The INSANE Travel Time! \ud83e\udd2f\ud83c\udf0c",
+    "uploaded_at": "2026-04-03T08:44:43.589392"
+  }
+}

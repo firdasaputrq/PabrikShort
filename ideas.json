@@ -1195,5 +1195,28 @@
     "status": "formatted",
     "strategy_based": true,
     "formatted_at": "2026-04-03T01:21:24.714416"
+  },
+  {
+    "topic": "Travel to the Milky Way's Galactic Center",
+    "topic_family": "travel_time",
+    "hook": "Could humanity ever reach the supermassive black hole at the heart of our galaxy?",
+    "facts": [
+      "The Milky Way's Galactic Center (Sagittarius A*) is ~27,000 light-years from Earth.",
+      "Traveling at the speed of light, this journey would still take 27,000 years.",
+      "In a car cruising at 100 km/h, reaching Sgr A* would take approximately 290 BILLION years."
+    ],
+    "payoff": "Even at light speed, reaching the center of our OWN galaxy is a multi-millennia journey, and with current tech, it would take far longer than the universe has existed!",
+    "title": "Galactic Center Journey: The INSANE Travel Time! \ud83e\udd2f\ud83c\udf0c",
+    "hashtags": [
+      "GalacticCenter",
+      "SagittariusA",
+      "SpaceTravel",
+      "LightSpeed",
+      "MilkyWay"
+    ],
+    "generated_at": "2026-04-03T08:43:34.474837",
+    "status": "formatted",
+    "strategy_based": true,
+    "formatted_at": "2026-04-03T08:43:47.060268"
   }
 ]
