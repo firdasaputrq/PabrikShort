@@ -1380,5 +1380,29 @@
     "status": "formatted",
     "strategy_based": true,
     "formatted_at": "2026-04-05T16:26:09.357997"
+  },
+  {
+    "topic": "Quasar 3C 273 Travel Time",
+    "topic_family": "travel_time",
+    "hook": "Travel to the most LUMINOUS objects in the universe?",
+    "facts": [
+      "Quasar 3C 273 is one of the brightest known objects, fueled by a supermassive black hole.",
+      "It lies a staggering 2.44 BILLION light-years away from Earth.",
+      "Even at the speed of light (300,000 km/s), a journey there would take 2.44 BILLION years.",
+      "The fastest human-made spacecraft, Parker Solar Probe (max 195 km/s), would need 3.9 TRILLION years to reach it."
+    ],
+    "payoff": "We only ever see these cosmic giants as ancient echoes \u2013 forever out of reach for physical travel.",
+    "title": "How Long to Reach a QUASAR? \ud83e\udd2f\ud83c\udf0c",
+    "hashtags": [
+      "#Quasar",
+      "#SpaceTravel",
+      "#Astrophysics",
+      "#LightSpeed",
+      "#CosmicScale"
+    ],
+    "generated_at": "2026-04-06T01:25:51.048271",
+    "status": "formatted",
+    "strategy_based": true,
+    "formatted_at": "2026-04-06T01:26:00.493922"
   }
 ]
