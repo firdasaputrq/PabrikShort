@@ -1,14 +1,14 @@
+# refresh scheduler
 name: Generate Short Idea
   
 on:
   schedule:
     - cron: '*/5 * * * *'
-    - cron: '7 12 * * *'  # 08:07 AM EST - morning commute
-    - cron: '35 12 * * *'
-    - cron: '7 15 * * *'  # 11:07 AM EST - late morning
-    - cron: '7 18 * * *'  # 02:07 PM EST - lunch break
-    - cron: '7 22 * * *'  # 06:07 PM EST - after work
-    - cron: '7 1 * * *'   # 09:07 PM EST - prime evening scroll
+    #- cron: '7 12 * * *'  # 08:07 AM EST - morning commute
+    #- cron: '7 15 * * *'  # 11:07 AM EST - late morning
+    #- cron: '7 18 * * *'  # 02:07 PM EST - lunch break
+    #- cron: '7 22 * * *'  # 06:07 PM EST - after work
+    #- cron: '7 1 * * *'   # 09:07 PM EST - prime evening scroll
   workflow_dispatch:
 
 jobs:
