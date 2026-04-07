@@ -1450,5 +1450,30 @@
     "status": "formatted",
     "strategy_based": true,
     "formatted_at": "2026-04-07T02:42:15.325233"
+  },
+  {
+    "topic": "Magnetar Magnetic Fields",
+    "topic_family": "extreme_conditions",
+    "hook": "What's the UNIVERSE'S MOST POWERFUL MAGNET? \ud83e\uddf2\ud83e\udd2f",
+    "facts": [
+      "Your Refrigerator Magnet: ~50 Gauss.",
+      "Earth's Magnetic Field: ~0.5 Gauss.",
+      "Powerful MRI Machine: ~3 Tesla (30,000 Gauss).",
+      "Typical Neutron Star (Pulsar): Up to 10^12 Gauss.",
+      "MAGNETAR: Up to 10^15 Gauss (1 Quadrillion Gauss!)"
+    ],
+    "payoff": "A Magnetar's field is so strong it would permanently wipe ALL your credit cards from 600 miles away... and strip the electrons from your atoms!",
+    "title": "Universe's Strongest Magnet?! \ud83e\uddf2\ud83e\udd2f",
+    "hashtags": [
+      "Magnetar",
+      "SpaceFacts",
+      "Astrophysics",
+      "ExtremeSpace",
+      "MagneticField"
+    ],
+    "generated_at": "2026-04-07T04:49:32.260547",
+    "status": "formatted",
+    "strategy_based": true,
+    "formatted_at": "2026-04-07T04:49:41.618819"
   }
 ]
