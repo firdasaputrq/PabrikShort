@@ -1547,5 +1547,28 @@
     "status": "formatted",
     "strategy_based": true,
     "formatted_at": "2026-04-07T20:10:03.991172"
+  },
+  {
+    "topic": "Globular Cluster Scale",
+    "topic_family": "scale_comparison",
+    "hook": "How TIGHTLY packed are stars in a Globular Cluster? \ud83e\udd2f",
+    "facts": [
+      "A typical globular cluster holds hundreds of thousands to over a million stars.",
+      "Despite this immense stellar population, it spans only 100-300 light-years across.",
+      "In their core, stars can be less than 0.1 light-years apart \u2013 about 40x closer than our Sun is to Proxima Centauri (~4.2 light-years)."
+    ],
+    "payoff": "This ultra-dense 'star city' packs millions of stars into a region tiny compared to our galaxy's sparse neighborhoods!",
+    "title": "Globular Cluster: Star City Scale! \u2728\ud83c\udf0c",
+    "hashtags": [
+      "#Space",
+      "#Astrophysics",
+      "#GlobularCluster",
+      "#Stars",
+      "#CosmicScale"
+    ],
+    "generated_at": "2026-04-07T23:58:02.945642",
+    "status": "formatted",
+    "strategy_based": true,
+    "formatted_at": "2026-04-07T23:58:12.729621"
   }
 ]

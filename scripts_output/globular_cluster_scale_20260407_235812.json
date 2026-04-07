@@ -1,0 +1,92 @@
+{
+  "idea": {
+    "topic": "Globular Cluster Scale",
+    "topic_family": "scale_comparison",
+    "hook": "How TIGHTLY packed are stars in a Globular Cluster? \ud83e\udd2f",
+    "facts": [
+      "A typical globular cluster holds hundreds of thousands to over a million stars.",
+      "Despite this immense stellar population, it spans only 100-300 light-years across.",
+      "In their core, stars can be less than 0.1 light-years apart \u2013 about 40x closer than our Sun is to Proxima Centauri (~4.2 light-years)."
+    ],
+    "payoff": "This ultra-dense 'star city' packs millions of stars into a region tiny compared to our galaxy's sparse neighborhoods!",
+    "title": "Globular Cluster: Star City Scale! \u2728\ud83c\udf0c",
+    "hashtags": [
+      "#Space",
+      "#Astrophysics",
+      "#GlobularCluster",
+      "#Stars",
+      "#CosmicScale"
+    ],
+    "generated_at": "2026-04-07T23:58:02.945642",
+    "status": "pending",
+    "strategy_based": true
+  },
+  "script": {
+    "total_duration": 20,
+    "scenes": [
+      {
+        "scene_number": 1,
+        "start_time": 0,
+        "duration": 3,
+        "text": "How TIGHTLY packed are stars in a Globular Cluster? \ud83e\udd2f",
+        "text_position": "center",
+        "text_size": "large",
+        "visual": "Full screen, vibrant image of a massive globular cluster (e.g., M13, Omega Centauri), slowly rotating or subtly pulsing.",
+        "animation": "fade_in"
+      },
+      {
+        "scene_number": 2,
+        "start_time": 3,
+        "duration": 4,
+        "text": "1+ Million Stars",
+        "text_position": "center",
+        "text_size": "medium",
+        "visual": "The globular cluster image. Numbers (e.g., '100,000', '500,000', '1,000,000+') appear and flash, indicating increasing star count, overlaying the cluster.",
+        "animation": "zoom_in"
+      },
+      {
+        "scene_number": 3,
+        "start_time": 7,
+        "duration": 4,
+        "text": "Only 100-300 LY across!",
+        "text_position": "center",
+        "text_size": "medium",
+        "visual": "The globular cluster with a transparent sphere or circle overlaid, visually representing its 100-300 light-year diameter. The background subtly zooms out to show the cluster's relative size.",
+        "animation": "slide_left"
+      },
+      {
+        "scene_number": 4,
+        "start_time": 11,
+        "duration": 4,
+        "text": "Core stars <0.1 LY apart\n(40x closer than Sun-Proxima!)",
+        "text_position": "center",
+        "text_size": "medium",
+        "visual": "Extreme zoom-in to the dense core of the globular cluster, showing individual stars almost touching. A visual indicator (e.g., two small dots and a line) measures the <0.1 LY distance, then transitions to showing a much larger distance for Sun-Proxima Centauri comparison.",
+        "animation": "slide_right"
+      },
+      {
+        "scene_number": 5,
+        "start_time": 15,
+        "duration": 5,
+        "text": "An ultra-dense 'star city'\nin a galaxy of sparse neighborhoods!",
+        "text_position": "center",
+        "text_size": "large",
+        "animation": "pulse",
+        "visual": "Transition from the dense core, zooming out to show the entire globular cluster. Then, zoom out further to show the cluster as a small, incredibly bright speck within a vast, dark, and mostly empty expanse representing a galaxy's arm or halo."
+      }
+    ],
+    "thumbnail_text": "Globular Clusters: Star City!",
+    "background_style": "space_dark"
+  },
+  "formatted_at": "2026-04-07T23:58:12.729367",
+  "status": "uploaded",
+  "rendered_at": "2026-04-07T23:59:11.094965",
+  "video_path": "videos_output/globular_cluster_scale_20260407_235813.mp4",
+  "uploaded_at": "2026-04-07T23:59:15.622459",
+  "youtube": {
+    "video_id": "fD-WCQHAKjw",
+    "url": "https://youtube.com/shorts/fD-WCQHAKjw",
+    "title": "Globular Cluster: Star City Scale! \u2728\ud83c\udf0c",
+    "uploaded_at": "2026-04-07T23:59:15.622354"
+  }
+}
