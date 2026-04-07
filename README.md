@@ -8,7 +8,10 @@ Video dibuat fully local — pakai MoviePy dengan animasi starfield, text, plane
 
 🔐 Secrets yang Dibutuhkan — Hanya 3
 Pergi ke repo → Settings → Secrets and variables → Actions → New repository secret
-Secret NameIsiGEMINI_API_KEYAPI key Google Gemini (gratis)YOUTUBE_TOKENJSON token OAuth (lihat cara buat di bawah)YOUTUBE_CLIENT_SECRETJSON isi file client_secret.json dari Google Cloud
+Secret Name Isi :
+GEMINI_API_KEYAPI -> key Google Gemini (gratis)
+YOUTUBE_TOKENJSON -> token OAuth (lihat cara buat di bawah)
+YOUTUBE_CLIENT_SECRETJSON -> isi file client_secret.json dari Google Cloud
 
 🎫 Step 1 — Dapatkan GEMINI_API_KEY
 
