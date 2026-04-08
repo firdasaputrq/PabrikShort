@@ -1239,12 +1239,12 @@
     "published_at": "2026-04-07T04:51:06Z",
     "topic_family": "general",
     "metrics": {
-      "views": 1398,
+      "views": 1670,
       "likes": 8,
       "comments": 2
     },
     "performance_score": 1.11,
-    "analyzed_at": "2026-04-07T12:15:06.076974"
+    "analyzed_at": "2026-04-08T09:53:11.669986"
   },
   {
     "video_id": "VrDmOc-NJ_Y",
@@ -1252,12 +1252,12 @@
     "published_at": "2026-04-07T02:43:48Z",
     "topic_family": "general",
     "metrics": {
-      "views": 571,
-      "likes": 8,
+      "views": 1162,
+      "likes": 14,
       "comments": 0
     },
-    "performance_score": 0.91,
-    "analyzed_at": "2026-04-07T12:15:06.213175"
+    "performance_score": 1.03,
+    "analyzed_at": "2026-04-08T09:53:12.082106"
   },
   {
     "video_id": "OCV8f6J_iPc",
@@ -1270,7 +1270,7 @@
       "comments": 0
     },
     "performance_score": 0.0,
-    "analyzed_at": "2026-04-07T12:15:06.366526"
+    "analyzed_at": "2026-04-08T09:53:12.234342"
   },
   {
     "video_id": "8RvW2SmikNU",
@@ -1283,7 +1283,7 @@
       "comments": 0
     },
     "performance_score": 0.532,
-    "analyzed_at": "2026-04-07T12:15:06.506520"
+    "analyzed_at": "2026-04-08T09:53:12.426386"
   },
   {
     "video_id": "CG40hPARPK0",
@@ -1296,7 +1296,7 @@
       "comments": 0
     },
     "performance_score": 0.028,
-    "analyzed_at": "2026-04-07T12:15:06.689329"
+    "analyzed_at": "2026-04-08T09:53:12.595960"
   },
   {
     "video_id": "NVuIkdMWswM",
@@ -1309,7 +1309,7 @@
       "comments": 0
     },
     "performance_score": 0.258,
-    "analyzed_at": "2026-04-07T12:15:06.812769"
+    "analyzed_at": "2026-04-08T09:53:13.027452"
   },
   {
     "video_id": "_nAseEOFrnc",
@@ -1322,7 +1322,7 @@
       "comments": 0
     },
     "performance_score": 0.227,
-    "analyzed_at": "2026-04-07T12:15:06.953149"
+    "analyzed_at": "2026-04-08T09:53:13.473166"
   },
   {
     "video_id": "h7t8aDpBkdM",
@@ -1335,7 +1335,7 @@
       "comments": 0
     },
     "performance_score": 0.048,
-    "analyzed_at": "2026-04-07T12:15:07.107530"
+    "analyzed_at": "2026-04-08T09:53:13.636591"
   },
   {
     "video_id": "scV8qZkkbZM",
@@ -1348,7 +1348,7 @@
       "comments": 0
     },
     "performance_score": 0.188,
-    "analyzed_at": "2026-04-07T12:15:07.249420"
+    "analyzed_at": "2026-04-08T09:53:13.826763"
   },
   {
     "video_id": "7fLkpXXv6Xs",
@@ -1361,7 +1361,7 @@
       "comments": 0
     },
     "performance_score": 0.43,
-    "analyzed_at": "2026-04-07T12:15:07.380337"
+    "analyzed_at": "2026-04-08T09:53:13.976970"
   },
   {
     "video_id": "uSxyWThjAqE",
@@ -1374,7 +1374,7 @@
       "comments": 0
     },
     "performance_score": 0.662,
-    "analyzed_at": "2026-04-07T12:15:07.513721"
+    "analyzed_at": "2026-04-08T09:53:14.456898"
   },
   {
     "video_id": "QR38t_oOkCI",
@@ -1387,7 +1387,7 @@
       "comments": 0
     },
     "performance_score": 0.405,
-    "analyzed_at": "2026-04-07T12:15:07.650138"
+    "analyzed_at": "2026-04-08T09:53:14.625838"
   },
   {
     "video_id": "RqJLsX6RMUs",
@@ -1400,7 +1400,7 @@
       "comments": 0
     },
     "performance_score": 0.188,
-    "analyzed_at": "2026-04-07T12:15:07.781194"
+    "analyzed_at": "2026-04-08T09:53:15.085121"
   },
   {
     "video_id": "o1Nsqpy6K14",
@@ -1413,7 +1413,7 @@
       "comments": 0
     },
     "performance_score": 0.328,
-    "analyzed_at": "2026-04-07T12:15:07.923439"
+    "analyzed_at": "2026-04-08T09:53:15.299584"
   },
   {
     "video_id": "wmwviVyXur8",
@@ -1426,7 +1426,7 @@
       "comments": 0
     },
     "performance_score": 0.85,
-    "analyzed_at": "2026-04-07T12:15:08.067523"
+    "analyzed_at": "2026-04-08T09:53:15.463594"
   },
   {
     "video_id": "53ZiA6wNSvw",
@@ -1492,5 +1492,70 @@
     },
     "performance_score": 0.338,
     "analyzed_at": "2026-04-07T12:15:08.769363"
+  },
+  {
+    "video_id": "WosBNX5WpXc",
+    "title": "Saturn's Rings: THINNER Than Paper?! \ud83e\udd2f\ud83e\ude90",
+    "published_at": "2026-04-08T06:27:00Z",
+    "topic_family": "planetary_facts",
+    "metrics": {
+      "views": 501,
+      "likes": 4,
+      "comments": 0
+    },
+    "performance_score": 0.83,
+    "analyzed_at": "2026-04-08T09:53:10.535211"
+  },
+  {
+    "video_id": "fD-WCQHAKjw",
+    "title": "Globular Cluster: Star City Scale! \u2728\ud83c\udf0c",
+    "published_at": "2026-04-07T23:59:37Z",
+    "topic_family": "scale_comparison",
+    "metrics": {
+      "views": 10,
+      "likes": 0,
+      "comments": 0
+    },
+    "performance_score": 0.025,
+    "analyzed_at": "2026-04-08T09:53:10.972410"
+  },
+  {
+    "video_id": "O8GknQeHAa8",
+    "title": "Titan: Rain That Burns! \ud83d\udd25\ud83c\udf27\ufe0f\ud83e\ude90",
+    "published_at": "2026-04-07T20:11:47Z",
+    "topic_family": "planetary_facts",
+    "metrics": {
+      "views": 52,
+      "likes": 0,
+      "comments": 0
+    },
+    "performance_score": 0.13,
+    "analyzed_at": "2026-04-08T09:53:11.134286"
+  },
+  {
+    "video_id": "1fEENPRV9F4",
+    "title": "Mercury's CRAZY Long Day! \ud83e\udd2f\u23f0",
+    "published_at": "2026-04-07T18:15:49Z",
+    "topic_family": "hypothetical",
+    "metrics": {
+      "views": 1740,
+      "likes": 10,
+      "comments": 0
+    },
+    "performance_score": 0.95,
+    "analyzed_at": "2026-04-08T09:53:11.300596"
+  },
+  {
+    "video_id": "gBDNQJcXDhU",
+    "title": "Cosmic Wall: UNIMAGINABLY HUGE! \ud83e\udd2f\ud83c\udf0c",
+    "published_at": "2026-04-07T13:03:08Z",
+    "topic_family": "scale_comparison",
+    "metrics": {
+      "views": 1520,
+      "likes": 16,
+      "comments": 0
+    },
+    "performance_score": 1.05,
+    "analyzed_at": "2026-04-08T09:53:11.483134"
   }
 ]
