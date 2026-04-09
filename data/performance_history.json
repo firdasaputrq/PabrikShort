@@ -1239,12 +1239,14 @@
     "published_at": "2026-04-07T04:51:06Z",
     "topic_family": "general",
     "metrics": {
-      "views": 1670,
-      "likes": 8,
-      "comments": 2
+      "views": 574,
+      "likes": 7,
+      "comments": 1,
+      "watch_time_minutes": 51,
+      "avg_view_duration_seconds": 13
     },
-    "performance_score": 1.11,
-    "analyzed_at": "2026-04-08T09:53:11.669986"
+    "performance_score": 2.0,
+    "analyzed_at": "2026-04-09T10:21:15.760837"
   },
   {
     "video_id": "VrDmOc-NJ_Y",
@@ -1252,12 +1254,14 @@
     "published_at": "2026-04-07T02:43:48Z",
     "topic_family": "general",
     "metrics": {
-      "views": 1162,
-      "likes": 14,
-      "comments": 0
+      "views": 400,
+      "likes": 5,
+      "comments": 0,
+      "watch_time_minutes": 31,
+      "avg_view_duration_seconds": 13
     },
-    "performance_score": 1.03,
-    "analyzed_at": "2026-04-08T09:53:12.082106"
+    "performance_score": 1.86,
+    "analyzed_at": "2026-04-09T10:21:15.857457"
   },
   {
     "video_id": "OCV8f6J_iPc",
@@ -1270,7 +1274,7 @@
       "comments": 0
     },
     "performance_score": 0.0,
-    "analyzed_at": "2026-04-08T09:53:12.234342"
+    "analyzed_at": "2026-04-09T10:21:15.946082"
   },
   {
     "video_id": "8RvW2SmikNU",
@@ -1283,7 +1287,7 @@
       "comments": 0
     },
     "performance_score": 0.532,
-    "analyzed_at": "2026-04-08T09:53:12.426386"
+    "analyzed_at": "2026-04-09T10:21:16.056118"
   },
   {
     "video_id": "CG40hPARPK0",
@@ -1296,7 +1300,7 @@
       "comments": 0
     },
     "performance_score": 0.028,
-    "analyzed_at": "2026-04-08T09:53:12.595960"
+    "analyzed_at": "2026-04-09T10:21:16.164001"
   },
   {
     "video_id": "NVuIkdMWswM",
@@ -1309,7 +1313,7 @@
       "comments": 0
     },
     "performance_score": 0.258,
-    "analyzed_at": "2026-04-08T09:53:13.027452"
+    "analyzed_at": "2026-04-09T10:21:16.284473"
   },
   {
     "video_id": "_nAseEOFrnc",
@@ -1322,7 +1326,7 @@
       "comments": 0
     },
     "performance_score": 0.227,
-    "analyzed_at": "2026-04-08T09:53:13.473166"
+    "analyzed_at": "2026-04-09T10:21:16.426222"
   },
   {
     "video_id": "h7t8aDpBkdM",
@@ -1335,7 +1339,7 @@
       "comments": 0
     },
     "performance_score": 0.048,
-    "analyzed_at": "2026-04-08T09:53:13.636591"
+    "analyzed_at": "2026-04-09T10:21:16.521124"
   },
   {
     "video_id": "scV8qZkkbZM",
@@ -1348,7 +1352,7 @@
       "comments": 0
     },
     "performance_score": 0.188,
-    "analyzed_at": "2026-04-08T09:53:13.826763"
+    "analyzed_at": "2026-04-09T10:21:16.623703"
   },
   {
     "video_id": "7fLkpXXv6Xs",
@@ -1361,7 +1365,7 @@
       "comments": 0
     },
     "performance_score": 0.43,
-    "analyzed_at": "2026-04-08T09:53:13.976970"
+    "analyzed_at": "2026-04-09T10:21:16.729017"
   },
   {
     "video_id": "uSxyWThjAqE",
@@ -1374,7 +1378,7 @@
       "comments": 0
     },
     "performance_score": 0.662,
-    "analyzed_at": "2026-04-08T09:53:14.456898"
+    "analyzed_at": "2026-04-09T10:21:16.835719"
   },
   {
     "video_id": "QR38t_oOkCI",
@@ -1387,7 +1391,7 @@
       "comments": 0
     },
     "performance_score": 0.405,
-    "analyzed_at": "2026-04-08T09:53:14.625838"
+    "analyzed_at": "2026-04-09T10:21:16.937675"
   },
   {
     "video_id": "RqJLsX6RMUs",
@@ -1499,12 +1503,12 @@
     "published_at": "2026-04-08T06:27:00Z",
     "topic_family": "planetary_facts",
     "metrics": {
-      "views": 501,
-      "likes": 4,
+      "views": 1034,
+      "likes": 5,
       "comments": 0
     },
-    "performance_score": 0.83,
-    "analyzed_at": "2026-04-08T09:53:10.535211"
+    "performance_score": 0.85,
+    "analyzed_at": "2026-04-09T10:21:15.287743"
   },
   {
     "video_id": "fD-WCQHAKjw",
@@ -1512,12 +1516,12 @@
     "published_at": "2026-04-07T23:59:37Z",
     "topic_family": "scale_comparison",
     "metrics": {
-      "views": 10,
-      "likes": 0,
+      "views": 34,
+      "likes": 1,
       "comments": 0
     },
-    "performance_score": 0.025,
-    "analyzed_at": "2026-04-08T09:53:10.972410"
+    "performance_score": 0.105,
+    "analyzed_at": "2026-04-09T10:21:15.382175"
   },
   {
     "video_id": "O8GknQeHAa8",
@@ -1525,12 +1529,12 @@
     "published_at": "2026-04-07T20:11:47Z",
     "topic_family": "planetary_facts",
     "metrics": {
-      "views": 52,
-      "likes": 0,
+      "views": 55,
+      "likes": 1,
       "comments": 0
     },
-    "performance_score": 0.13,
-    "analyzed_at": "2026-04-08T09:53:11.134286"
+    "performance_score": 0.158,
+    "analyzed_at": "2026-04-09T10:21:15.475511"
   },
   {
     "video_id": "1fEENPRV9F4",
@@ -1543,7 +1547,7 @@
       "comments": 0
     },
     "performance_score": 0.95,
-    "analyzed_at": "2026-04-08T09:53:11.300596"
+    "analyzed_at": "2026-04-09T10:21:15.566591"
   },
   {
     "video_id": "gBDNQJcXDhU",
@@ -1551,11 +1555,50 @@
     "published_at": "2026-04-07T13:03:08Z",
     "topic_family": "scale_comparison",
     "metrics": {
-      "views": 1520,
-      "likes": 16,
+      "views": 1660,
+      "likes": 18,
       "comments": 0
     },
     "performance_score": 1.05,
-    "analyzed_at": "2026-04-08T09:53:11.483134"
+    "analyzed_at": "2026-04-09T10:21:15.655483"
+  },
+  {
+    "video_id": "cYLdfA0i0zo",
+    "title": "Andromeda: A 3.8 BILLION Year Trip?! \ud83e\udd2f\ud83c\udf0c",
+    "published_at": "2026-04-09T06:26:16Z",
+    "topic_family": "travel_time",
+    "metrics": {
+      "views": 753,
+      "likes": 10,
+      "comments": 1
+    },
+    "performance_score": 1.05,
+    "analyzed_at": "2026-04-09T10:21:14.996804"
+  },
+  {
+    "video_id": "dRNUuI9mjXc",
+    "title": "Milky Way's Core: An ETERNITY Away? \ud83e\udd2f\ud83c\udf0c",
+    "published_at": "2026-04-08T23:58:36Z",
+    "topic_family": "travel_time",
+    "metrics": {
+      "views": 966,
+      "likes": 8,
+      "comments": 0
+    },
+    "performance_score": 0.91,
+    "analyzed_at": "2026-04-09T10:21:15.098819"
+  },
+  {
+    "video_id": "X4_a3MX_V90",
+    "title": "Proxima Centauri: A Lifetime Journey! \ud83e\udd2f\ud83d\ude80",
+    "published_at": "2026-04-08T19:05:04Z",
+    "topic_family": "travel_time",
+    "metrics": {
+      "views": 1244,
+      "likes": 13,
+      "comments": 0
+    },
+    "performance_score": 1.01,
+    "analyzed_at": "2026-04-09T10:21:15.194484"
   }
 ]
