@@ -1728,5 +1728,24 @@
     "status": "formatted",
     "strategy_based": true,
     "formatted_at": "2026-04-09T20:39:39.796934"
+  },
+  {
+    "topic": "Milky Way's Flatness",
+    "topic_family": "scale_comparison",
+    "hook": "Our Milky Way: Is it really as flat as a pancake?",
+    "facts": [
+      "The Milky Way's galactic disk spans an incredible ~100,000 light-years across.",
+      "Yet, its average thickness is only about ~1,000 light-years.",
+      "This gives our galaxy an astonishing width-to-thickness ratio of 100:1."
+    ],
+    "payoff": "If the Milky Way were a standard dinner plate (30cm wide), its disk would be just 3 millimeters thick! An unbelievably thin cosmic pancake of billions of stars!",
+    "title": "Milky Way: FLATTER Than a Pancake?! \ud83e\udd5e\ud83c\udf0c",
+    "hashtags": [
+      "#MilkyWay #Galaxy #SpaceFacts #Astrophysics #ScaleComparison"
+    ],
+    "generated_at": "2026-04-09T23:57:52.321294",
+    "status": "formatted",
+    "strategy_based": true,
+    "formatted_at": "2026-04-09T23:58:01.013699"
   }
 ]

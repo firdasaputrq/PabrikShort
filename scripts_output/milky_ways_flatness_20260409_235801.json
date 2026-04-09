@@ -1,0 +1,88 @@
+{
+  "idea": {
+    "topic": "Milky Way's Flatness",
+    "topic_family": "scale_comparison",
+    "hook": "Our Milky Way: Is it really as flat as a pancake?",
+    "facts": [
+      "The Milky Way's galactic disk spans an incredible ~100,000 light-years across.",
+      "Yet, its average thickness is only about ~1,000 light-years.",
+      "This gives our galaxy an astonishing width-to-thickness ratio of 100:1."
+    ],
+    "payoff": "If the Milky Way were a standard dinner plate (30cm wide), its disk would be just 3 millimeters thick! An unbelievably thin cosmic pancake of billions of stars!",
+    "title": "Milky Way: FLATTER Than a Pancake?! \ud83e\udd5e\ud83c\udf0c",
+    "hashtags": [
+      "#MilkyWay #Galaxy #SpaceFacts #Astrophysics #ScaleComparison"
+    ],
+    "generated_at": "2026-04-09T23:57:52.321294",
+    "status": "pending",
+    "strategy_based": true
+  },
+  "script": {
+    "total_duration": 20,
+    "scenes": [
+      {
+        "scene_number": 1,
+        "start_time": 0,
+        "duration": 3,
+        "text": "Our Milky Way: Flat as a pancake?",
+        "text_position": "center",
+        "text_size": "large",
+        "visual": "Artistic rendition of the Milky Way galaxy, seen slightly from an angle in space.",
+        "animation": "fade_in"
+      },
+      {
+        "scene_number": 2,
+        "start_time": 3,
+        "duration": 4,
+        "text": "Disk spans ~100,000 light-years across.",
+        "text_position": "center",
+        "text_size": "medium",
+        "visual": "Animated top-down view of a spiral galaxy. A measurement line expands across its diameter.",
+        "animation": "zoom_in"
+      },
+      {
+        "scene_number": 3,
+        "start_time": 7,
+        "duration": 4,
+        "text": "Average thickness: only ~1,000 light-years!",
+        "text_position": "center",
+        "text_size": "medium",
+        "visual": "Transition to a side-on view of the galaxy. A measurement line highlights its vertical thickness.",
+        "animation": "slide_left"
+      },
+      {
+        "scene_number": 4,
+        "start_time": 11,
+        "duration": 4,
+        "text": "That's an incredible width-to-thickness ratio of 100:1!",
+        "text_position": "center",
+        "text_size": "medium",
+        "visual": "A graphic combining the top-down and side-on views, clearly showing '100' next to width and '1' next to thickness.",
+        "animation": "zoom_in"
+      },
+      {
+        "scene_number": 5,
+        "start_time": 15,
+        "duration": 5,
+        "text": "If it were a 30cm dinner plate, its disk would be just 3mm thick! An unbelievably thin cosmic pancake of stars!",
+        "text_position": "center",
+        "text_size": "large",
+        "animation": "pulse",
+        "visual": "A dinner plate appears, then a glowing, super-thin disc (representing 3mm) appears above it, shimmering with tiny star-like particles."
+      }
+    ],
+    "thumbnail_text": "Milky Way: How Flat?",
+    "background_style": "space_stars"
+  },
+  "formatted_at": "2026-04-09T23:58:01.013478",
+  "status": "uploaded",
+  "rendered_at": "2026-04-09T23:58:57.358415",
+  "video_path": "videos_output/milky_ways_flatness_20260409_235801.mp4",
+  "uploaded_at": "2026-04-09T23:59:00.694107",
+  "youtube": {
+    "video_id": "FWaTeIxIPzw",
+    "url": "https://youtube.com/shorts/FWaTeIxIPzw",
+    "title": "Milky Way: FLATTER Than a Pancake?! \ud83e\udd5e\ud83c\udf0c",
+    "uploaded_at": "2026-04-09T23:59:00.693986"
+  }
+}
